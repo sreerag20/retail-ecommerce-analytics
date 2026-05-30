@@ -1,0 +1,2 @@
+customer_id,full_name,email,phone,region,state,segment,join_date,status,is_active,customer_age
+CUST-1000,Eric Curry,scott74@example.net,9339500479,West,IL,B2C,2020-11-29,Inactive,0,74

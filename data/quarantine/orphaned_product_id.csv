@@ -1,0 +1,3 @@
+order_id,customer_id,product_id,location_id,rep_id,order_date,ship_date,quantity,unit_price,revenue,cost,discount_pct,status,region,custmer_id,_region_mismatch_flag,error
+ORD-02577,CUST-1000,PROD-0168,LOC-0057,REP-0051,2024-03-11,2024-03-16,7,91.0,529.08,320.35,0.1697,Completed,Central,,,ORPHANED_PRODUCT_ID
+ORD-03954,CUST-1000,PROD-0003,LOC-0097,REP-0008,2024-02-26,2024-02-27,37,252.0,7207.42,4320.39,0.2278,Returned,East,,,ORPHANED_PRODUCT_ID
