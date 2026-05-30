@@ -1,0 +1,25 @@
+# Virtual environment — never upload this
+venv/
+.venv/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Large or sensitive data files
+data/raw/*.csv
+data/cleaned/*.csv
+data/exports/*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables (passwords!)
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
