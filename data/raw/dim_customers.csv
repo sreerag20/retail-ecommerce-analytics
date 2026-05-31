@@ -1,2 +1,1041 @@
 cust_id,full_name,email,phone,region,state,segment,join_date,status,is_active,customer_age
-CUST-1000,Eric Curry,scott74@example.net,9339500479,West,IL,B2C,29-Nov-2020,Inactive,False,74
+CUST-137,Ronald Spencer,,,Central,,,19-Mar-2025,Inactive,False,30
+CUST-629,Caroline Bailey,chanson@example.org,+18093141818,West,TX,B2C,2020-08-13,Active,YES,63
+CUST-185,Jonathan Young,,,Central,TX,B2C,2023-12-10,Active,True,34
+CUST-032,Jordan York,larsonemma@example.org,348-951 - 3433,South,CA,B2B,01-Oct-2021,Churned,NO,999
+CUST-678,Kurt Hancock,janet50@example.com,2422711332,South,NC,B2C,2025-07-24,Inactive,0,31
+CUST-937,Danielle Murphy,,,East,GA,,16-Aug-2023,Active,YES,40
+CUST-290,Anthony Jones,,,East,,,25-Mar-2025,Inactive,NO,29
+CUST-328,Krystal Barton,,,South,,,2021-11-03,Churned,NO,999
+CUST-492,Dennis Martin,adam72@example.org,6118005375,Central,WA,Guest,21-Jan-2024,Active,1,66
+CUST-395,Chad Moore,fconner@example.net,(208) 514 - 0369,West,WA,B2C,2023-04-10,Active,True,18
+CUST-667,John Martinez,mark68@example.org,7236687887,Central,NC,B2C,03-Feb-2025,Active,1,42
+CUST-546,Donna Stuart,bautistalori@example.net,950-479 - 3036,North,MA,B2C,08/19/2025,Active,YES,29
+CUST-870,Jeffrey Green,rubiogeorge@example.net,8527403344,East,CA,B2C,10/31/2020,Inactive,0,46
+CUST-762,Leon Thompson,,,West,,,2021-08-23,Active,1,24
+CUST-257,Steven Griffin Jr.,,,North,TN,,05/15/2025,Active,1,36
+CUST-077,Madison Poole,,,South,,,05-Feb-2024,Churned,False,62
+CUST-774,Susan Cox,rodriguezmichael@example.net,+19513765158,Central,TX,Guest,11/16/2020,Inactive,NO,74
+CUST-851,Diana Pierce,stuarttodd@example.org,5973278195,South,FL,B2C,2022-08-10,Churned,NO,62
+CUST-332,Shannon Bishop,imartin@example.org,660-136 - 7303,West,AZ,B2C,05/30/2025,Active,1,51
+CUST-630,James Todd,rodriguezbrian@example.net,+14340163611,South,NC,B2C,2022-05-25,Active,True,20
+CUST-969,Jill Walker,changerin@example.net,655-259 - 7107,East,OH,B2B,25-Jul-2023,Churned,False,46
+CUST-812,John Reynolds,,,Central,,,26-Jan-2021,Churned,False,64
+CUST-378,Sarah Hawkins,codygarcia@example.org,+13556990235,East,TN,B2C,09/03/2020,Churned,NO,30
+CUST-723,Seth Smith,ureyes@example.net,8134732354,Central,IL,B2C,2022-08-23,Active,YES,55
+CUST-623,Brittany Shaw,ericnunez@example.com,268-887 - 1898,North,CO,B2C,2023-02-16,Churned,NO,59
+CUST-430,Courtney Franklin,jennifer46@example.com,260-078 - 0686,West,CO,B2C,10-Jul-2025,Inactive,False,36
+CUST-917,Carrie Villarreal,romanmatthew@example.org,(921) 514 - 9409,West,OH,B2C,2023-06-13,Churned,False,18
+CUST-087,Angel Brown,,,Central,TX,Guest,12/14/2024,Active,1,74
+CUST-319,Michael Flynn,,,North,,,2022-02-28,Churned,NO,34
+CUST-591,Erin Bridges,,,East,,,2026-05-04,Active,1,36
+CUST-175,Melissa Myers,,,North,,,18-Jan-2023,Inactive,NO,37
+CUST-209,Robert Arnold,jonesraymond@example.net,857-191 - 8261,Central,MI,B2B,12-Apr-2025,Inactive,False,19
+CUST-520,Adam Allen,katherinetaylor@example.org,866-785 - 0720,Central,TX,B2B,10/14/2023,Active,True,21
+CUST-971,Tanner Mann,adrianjoyce@example.net,905-816 - 2951,Central,GA,B2C,2020-09-21,Churned,NO,57
+CUST-954,Charles Scott,moorestephanie@example.net,+12344765047,North,PA,B2C,01/07/2025,Active,1,28
+CUST-114,Jennifer Miller,melissa86@example.com,(858) 202 - 9702,North,FL,B2C,04/16/2023,Active,YES,24
+CUST-440,Cory Wilson,,,East,,,06-Jan-2021,Active,YES,70
+C555,Kelli Smith,,,South,FL,,02-Dec-2023,Active,True,48
+CUST-540,Matthew King,ncunningham@example.com,438-687 - 0079,East,WA,Guest,2021-04-26,Active,YES,75
+CUST-060,John Schmidt,,,South,,,04/17/2024,Active,YES,43
+CUST-549,Heather Foster,,,North,,,2022-10-04,Active,True,62
+CUST-695,Marc Kelley,vreyes@example.org,(966) 053 - 8444,East,MA,Guest,2025-06-07,Churned,NO,47
+C690,Anna Lang,tdavis@example.net,9910336829,West,FL,B2C,05/15/2024,Churned,False,45
+CUST-200,Jeremy Acosta,christina64@example.net,+16183285691,East,AZ,B2C,04/12/2026,Churned,NO,22
+CUST-779,James White,rodriguezjoshua@example.net,9229812099,East,WA,B2C,2024-04-21,Active,1,34
+C735,Tasha Ortega,edward56@example.net,812-875 - 8575,West,GA,B2C,2025-12-18,Active,YES,48
+CUST-443,Katherine Gallagher,andersonryan@example.com,3702814069,South,GA,B2C,2025-04-24,Active,True,35
+C517,Bernard Smith,hessbeth@example.net,+13077119918,North,NC,B2B,09/27/2025,Active,True,39
+CUST-948,James Weaver,,,South,,,15-Sep-2023,Active,1,19
+CUST-281,Sara Jones,,,North,,,28-Nov-2020,Active,YES,72
+CUST-322,Leslie Powers,david41@example.org,9598762202,South,WA,B2C,2022-12-10,Inactive,0,57
+CUST-050,William Wilson,jonathanfletcher@example.org,910-947 - 7752,North,IL,Guest,29-Jan-2023,Active,True,71
+CUST-888,Brad Rivas,rgibson@example.net,(317) 768 - 7290,East,GA,B2C,2023-03-01,Churned,0,74
+CUST-110,Veronica Allen,xhall@example.com,9221704303,North,PA,Guest,23-Feb-2023,Active,YES,57
+CUST-981,Cynthia Jones,oduran@example.com,(881) 039 - 0339,West,CA,B2C,01-Apr-2023,Active,YES,74
+CUST-427,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,kaitlyn14@example.org,926-527 - 3543,East,NY,B2B,27-May-2025,Active,1,62
+CUST-409,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,christopher86@example.org,(469) 212 - 4471,West,TN,Guest,05/23/2021,Inactive,0,23
+CUST-962,David Frazier,megan39@example.net,7380442101,West,PA,Guest,2024-07-06,Active,1,31
+CUST-011,Jonathan Wilkerson,,,West,,,02/01/2023,Active,YES,24
+CUST-502,Joe Rivera,jonesgregory@example.com,+14515837767,East,MI,B2C,31-Mar-2026,Active,True,52
+CUST-524,Laura Bennett,pdiaz@example.org,+14008943468,North,AZ,B2B,26-Aug-2022,Active,YES,55
+CUST-662,Kevin Alvarez,mramos@example.net,+13001841862,North,TN,B2B,10-Aug-2024,Active,YES,25
+CUST-071,Marissa Webster,,,North,,,29-Dec-2020,Inactive,False,45
+CUST-0061,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,juliawells@example.com,(474) 846 - 7737,Central,NY,B2C,14-Sep-2024,Churned,NO,31
+CUST-627,Nancy Sanchez,,,East,,,03/08/2025,Active,1,33
+C262,Cameron Irwin,,,South,,,24-Dec-2024,Churned,0,75
+CUST-362,Carol Moore,shannonemily@example.org,+15933051728,Central,GA,B2C,29-Aug-2024,Active,YES,65
+CUST-399,Blake Reed,gary15@example.com,(951) 971 - 2847,Central,TX,B2C,08/09/2021,Active,True,23
+CUST-343,Mariah Williams,jessica36@example.net,819-576 - 1228,West,NC,B2C,29-Jul-2023,Active,YES,72
+CUST-437,Carl Green,,,South,,,2022-11-28,Active,1,26
+CUST-531,Lawrence Ruiz,ajackson@example.net,+14701851067,Central,IL,B2C,02/20/2021,Churned,NO,69
+CUST-333,Laura Patel,mariopadilla@example.com,845-208 - 8147,East,FL,B2C,2022-03-03,Active,1,70
+CUST-140,Jason Wilson,,,East,,,11/08/2020,Inactive,0,64
+CUST-882,Brittany Farrell,jbrown@example.org,(489) 812 - 3179,East,AZ,Guest,08/03/2024,Active,1,55
+CUST-760,Stephanie Hall,nguyencorey@example.net,+15845881056,Central,GA,B2C,06-Feb-2022,Active,True,34
+CUST-313,Brittany Cuevas,,,Central,,,01-Jun-2025,Active,1,40
+CUST-925,Jeffrey Hardin,,,East,,,2022-05-08,Active,YES,39
+CUST-142,Mason Johnson,bboone@example.net,654-990 - 4530,North,GA,B2C,2024-11-05,Active,True,20
+C300,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,,,East,,,07-Nov-2021,Active,1,56
+CUST-777,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,brownmichael@example.com,3206021288,West,TN,B2C,30-May-2023,Active,True,63
+CUST-718,Susan Stevenson,lwood@example.com,+19281235679,Central,FL,B2C,2021-05-11,Active,YES,48
+CUST-949,Laura Hogan,ann18@example.org,(797) 752 - 4418,South,TN,Guest,2021-10-26,Active,YES,60
+C89,Jennifer Jones,,,South,,,19-May-2021,Active,True,27
+CUST-843,Daniel Flynn,william46@example.net,2555572773,Central,AZ,B2B,04-Dec-2024,Active,YES,33
+CUST-306,Krista Benton,nhahn@example.com,6902770384,South,CA,B2C,2021-12-10,Active,1,57
+CUST-102,Jennifer Robertson,,,West,,,2021-05-25,Inactive,False,20
+CUST-311,Lonnie Hart,vrasmussen@example.com,(634) 165 - 1827,East,PA,B2B,06-Jun-2023,Active,YES,68
+CUST-860,Robert Martinez,,,Central,,,15-May-2026,Active,1,20
+CUST-452,Elizabeth Stanley,,,East,,,30-Mar-2026,Active,YES,999
+CUST-097,Kyle Preston,,,South,,,2024-08-11,Active,1,35
+CUST-815,Hannah Martin,williamjones@example.net,4781050922,South,TX,B2C,2022-10-08,Inactive,NO,34
+CUST-793,Kayla Brown,raymond65@example.com,(355) 810 - 8358,South,NY,B2C,2023-02-11,Active,1,51
+CUST-031,Kimberly Adkins,,,Central,,,2020-11-27,Churned,NO,60
+CUST-159,James Padilla,charles06@example.org,(210) 062 - 3120,South,NC,B2C,27-Jan-2024,Active,1,22
+CUST-689,Melissa Jensen,martin38@example.org,455-027 - 2751,West,IL,B2C,10/06/2025,Active,YES,35
+CUST-055,Jeremy Lewis,,,Central,,,02/25/2023,Active,True,29
+CUST-024,Carlos Walls,,,East,,,07/16/2024,Inactive,0,63
+CUST-612,Jimmy Ortega,jacksonhenry@example.com,(766) 863 - 3414,North,TX,B2B,25-Apr-2025,Inactive,0,25
+CUST-740,Michael Mosley,tom73@example.org,9601467238,East,MA,B2C,01/11/2026,Active,1,32
+CUST-645,Cole Anderson,,,South,TX,,27-Sep-2022,Active,1,59
+CUST-634,Amy Pena,jonesdonna@example.net,+13465111312,Central,CA,B2B,03-May-2026,Active,True,20
+CUST-602,Ronald Rocha,,,West,,,05/24/2024,Active,1,72
+CUST-179,Brittany White,jenniferwilliams@example.com,482-586 - 7362,South,WA,B2C,11-Jul-2021,Active,YES,20
+CUST-004,Christopher Bernard,curtis61@example.com,+15103413164,West,WA,B2C,03-Jan-2024,Active,YES,20
+C278,Juan Silva,,,West,,,08/26/2021,Churned,0,27
+CUST-594,Christine Price,sharon20@example.net,367-423 - 3629,South,IL,B2C,11/04/2024,Active,YES,43
+CUST-293,Jeffrey Roberson,,,Central,,,2023-05-09,Inactive,False,46
+CUST-299,Jason Maxwell,ashleyjackson@example.com,(862) 103 - 8862,Central,TX,B2B,09/08/2023,Churned,0,67
+CUST-817,Tami York,,,South,GA,B2B,01-Apr-2021,Active,True,69
+CUST-874,Alyssa Cherry,christinesolomon@example.com,+16021557325,West,FL,B2C,20-Nov-2023,Active,1,65
+CUST-232,Dana Armstrong,leescott@example.com,5741608989,Central,NY,B2B,01-Sep-2021,Inactive,False,33
+CUST-211,Joseph Anderson,,,East,,,03/28/2024,Active,1,73
+CUST-459,Steven Friedman,natalie15@example.com,213-875 - 9271,South,MA,B2C,10-Nov-2021,Active,1,38
+CUST-924,Mike Perry,edwardmolina@example.com,+14728270908,North,CO,Guest,18-Feb-2021,Churned,NO,74
+CUST-933,Ronnie Torres,hbenitez@example.net,6346066643,West,IL,B2C,13-Jun-2025,Active,YES,18
+CUST-914,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,laura29@example.org,8964546553,East,NC,B2C,09/24/2023,Churned,NO,63
+CUST-406,Monica Baker,kenneth10@example.com,+18580185694,East,IL,B2C,2025-02-14,Active,YES,67
+CUST-064,Amy Russell,,,Central,,,2021-09-16,Inactive,NO,38
+CUST-320,Brian Lambert,,,East,,,08-Mar-2023,Active,True,64
+CUST-469,Jonathan Stewart,bmcgee@example.org,7450090255,Central,CA,B2C,22-Mar-2024,Active,YES,24
+CUST-441,Curtis Ortiz,tthomas@example.org,255-257 - 8284,North,TN,B2B,09/10/2021,Churned,False,42
+CUST-101,Robin Pierce,qmiller@example.com,(792) 962 - 2292,West,CA,B2C,17-Jan-2026,Inactive,0,44
+CUST-337,Paul Neal,shawn75@example.net,4855749821,Central,NY,B2C,03/15/2021,Inactive,NO,48
+CUST-451,Jennifer James,thomas23@example.net,+12456504481,Central,FL,B2C,10/26/2020,Active,True,49
+CUST-409,James Burns,christopher86@example.org,(469) 212 - 4471,West,TN,Guest,05/23/2021,Inactive,NO,26
+CUST-108,Katie Hoover,,,West,,,04/20/2023,Active,1,39
+CUST-169,Rebecca Huang,,,West,NY,,2025-05-07,Active,YES,38
+CUST-040,Donald Smith,,,South,,,2025-10-21,Active,YES,59
+CUST-199,Brian Murphy,,,North,,,2025-01-18,Active,1,21
+CUST-238,Regina Roberts,,9850821486,South,CO,Guest,07-May-2023,Churned,0,52
+CUST-576,Mary Shepard,clarkrandy@example.org,370-580 - 2566,South,TX,B2B,2021-06-22,Active,True,67
+CUST-193,Harold Morgan,mariacohen@example.net,(636) 110 - 3712,Central,FL,B2C,2023-03-29,Active,True,70
+CUST-705,Karen Lopez,xbridges@example.com,8342346199,East,NY,B2C,2022-03-17,Churned,False,36
+CUST-724,Anne Schmidt,stephanie69@example.net,6325122572,North,WA,B2C,21-Mar-2026,Active,YES,47
+CUST-067,Michael Yates,,,South,,,2020-08-28,Active,True,70
+CUST-068,James Elliott,,,West,,,14-Dec-2024,Active,YES,38
+CUST-921,Shelby Bartlett,jessicaerickson@example.net,+14647124633,East,WA,B2C,2021-10-30,Active,YES,31
+CUST-498,Allison Black,willie87@example.com,+15908926137,North,TN,B2C,02-Jan-2025,Active,1,53
+CUST-214,Caroline David,georgeweber@example.net,851-994 - 1013,West,CO,B2B,03/16/2021,Churned,NO,67
+CUST-831,James Stevens,thompsondonna@example.com,758-099 - 6132,West,FL,B2B,2024-03-28,Active,1,48
+CUST-835,Hannah Harmon,hubbardcolleen@example.com,812-059 - 4389,West,OH,B2B,2021-07-02,Active,True,33
+CUST-650,Stacy Patterson,franklinmadison@example.net,(537) 118 - 9547,South,NC,B2C,03/05/2023,Active,1,62
+CUST-351,Chelsea Myers,bowerslaura@example.org,(822) 783 - 7693,Central,MI,Guest,2024-10-24,Active,True,67
+CUST-862,Pamela Sullivan,hillchristopher@example.com,+15128403339,Central,GA,B2C,02/09/2023,Active,1,47
+CUST-603,Jordan Parsons,bgross@example.net,4522372817,Central,MA,B2B,08/26/2022,Active,1,74
+CUST-559,Katherine Smith,charlesnathan@example.com,537-933 - 7563,West,NY,B2C,02/27/2026,Active,True,26
+CUST-878,Megan Anderson,carpenterjorge@example.net,8940960035,West,NY,B2C,12/25/2022,Active,YES,24
+CUST-788,Tanya Moore,,,West,,,24-Aug-2021,Active,YES,69
+CUST-931,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,abigailfernandez@example.org,713-739 - 9006,South,TN,B2C,09/21/2020,Churned,0,45
+CUST-746,Summer Hoover,bryantgeorge@example.net,(431) 177 - 5331,South,AZ,Guest,16-Nov-2021,Inactive,0,33
+CUST-309,Jonathon Knapp,ystephens@example.com,(384) 518 - 4894,West,OH,B2C,12-May-2025,Inactive,False,23
+CUST-707,Vanessa Taylor,dawnperry@example.com,(408) 496 - 4985,West,CA,B2B,2024-07-20,Inactive,0,999
+CUST-405,Jessica Brown,jamie36@example.net,(967) 478 - 3667,East,NY,B2C,10/24/2021,Active,True,53
+CUST-003,Jennifer Cole,lisa02@example.net,+13615594078,North,TN,B2C,12/09/2025,Active,YES,27
+CUST-431,Daniel Turner,asilva@example.net,5180632543,North,CA,B2C,2023-05-18,Active,1,20
+CUST-545,Austin Walker,lynchjenny@example.com,(953) 703 - 0453,North,MA,B2C,07/07/2025,Active,YES,28
+CUST-771,Nicole Johnson,iford@example.net,+16902504290,North,MI,B2B,2024-04-25,Active,YES,19
+CUST-345,Greg Martinez,ebenson@example.org,+19760049082,East,CA,B2C,2020-06-27,Active,YES,68
+CUST-980,Sara Wright,vallen@example.org,203-322 - 8556,West,CA,B2C,2025-09-26,Active,True,66
+CUST-987,Jordan Kelly,,,East,,,04/14/2025,Active,True,27
+CUST-785,William Franco,evanwilson@example.com,(485) 478 - 1506,North,TN,B2C,2024-12-18,Active,1,72
+CUST-484,Stephanie Ferguson,hstokes@example.org,+13343275604,North,MA,B2C,2023-12-18,Active,YES,23
+CUST-916,Katherine Young,kiddmichael@example.com,690-797 - 7961,South,CA,B2C,2023-12-13,Active,1,64
+CUST-358,Tim Wilson,parkerjudith@example.net,(754) 384 - 0460,Central,IL,B2B,2020-11-25,Active,True,58
+CUST-558,David Montgomery,kimberlywilson@example.org,7995946521,West,TN,B2C,12-May-2022,Active,YES,999
+CUST-586,James Baker,hgarrett@example.net,(513) 122 - 0681,East,PA,B2C,2025-11-27,Active,True,60
+CUST-722,John Alvarez,noahthornton@example.com,(513) 100 - 9431,Central,TX,B2C,01-Nov-2021,Churned,0,22
+CUST-965,Mrs. Julia Greene,sloandennis@example.org,9722660256,South,OH,B2C,2026-01-16,Active,True,36
+CUST-881,Tammy Black,ustafford@example.net,+14716073607,West,OH,B2B,08/16/2025,Inactive,NO,18
+CUST-219,Bianca Wood,,,East,,,2023-05-08,Inactive,False,56
+CUST-360,Cameron Norman,jessica10@example.com,498-324 - 8262,Central,TN,B2B,08/13/2022,Active,YES,67
+C754,Anita Serrano,,,North,,,08/30/2024,Churned,False,27
+CUST-548,Christopher Johnson,dianacantrell@example.org,+12894870605,West,MA,Guest,05/09/2026,Active,True,54
+CUST-248,Rachel Bradley,gregorychase@example.com,(373) 816 - 8460,South,NY,Guest,12-Jul-2020,Active,YES,48
+CUST-768,John Mack,simmonsphillip@example.net,+14322903102,Central,MA,B2C,2020-10-14,Active,True,37
+CUST-903,Jared Sandoval,,,West,,,20-Jun-2024,Active,YES,65
+CUST-307,Andrea Abbott,ichambers@example.net,405-302 - 1465,West,OH,B2C,21-Nov-2022,Active,True,35
+CUST-107,Juan Reyes,michellehill@example.com,3798089324,West,CA,B2C,06/05/2024,Active,YES,63
+CUST-988,Andrew Anderson,ppalmer@example.com,931-072 - 0113,West,MA,Guest,2022-06-24,Inactive,0,62
+CUST-056,Diane Beck,clarence34@example.org,(794) 013 - 9904,Central,CA,B2C,2021-11-08,Active,1,70
+CUST-121,James Webb,patrickhoward@example.com,+16384249818,South,MI,Guest,12/24/2022,Active,True,27
+CUST-801,Terry Newman,,(804) 387 - 8753,East,GA,B2C,2023-12-17,Active,YES,53
+CUST-026,Maria Brown,lauren13@example.org,+15421607337,East,IL,B2C,2026-02-20,Churned,0,45
+C73,Tracey Higgins,tamirodriguez@example.org,885-160 - 4817,East,WA,B2C,11/02/2021,Active,YES,38
+CUST-210,Patricia Morrow,,,South,,,06/25/2024,Active,True,50
+CUST-045,Tim Patton,vpham@example.org,+15799650752,West,FL,B2C,2020-08-15,Active,YES,30
+CUST-315,Jeffrey Horton,carlos01@example.org,9500369155,Central,MA,B2C,05/17/2023,Active,YES,42
+CUST-867,Nicholas Green,,,East,,,04/01/2024,Active,1,24
+CUST-654,Stephanie Ford,gdavis@example.org,6434481230,Central,FL,B2C,15-Nov-2020,Active,YES,39
+CUST-329,Joshua Ritter,,,West,,,2021-05-19,Active,1,27
+CUST-926,Jessica Carrillo,millerleroy@example.org,3815352373,West,CA,B2C,2023-06-27,Churned,False,24
+CUST-352,David Little,,,South,PA,,08/14/2024,Inactive,NO,69
+CUST-957,Jordan Gordon,adamslucas@example.net,+13021312512,Central,CO,B2B,24-May-2025,Active,1,20
+CUST-636,Kari Harper,,,South,TX,,04-Apr-2021,Active,True,22
+CUST-715,Linda Torres,,,West,,,2020-09-16,Active,True,45
+C371,David Bruce,,,South,,,03/15/2021,Active,True,53
+CUST-686,Christine Bell,joseph49@example.org,(805) 673 - 0306,East,IL,B2C,03-Mar-2025,Active,True,33
+CUST-811,Calvin Anderson,colemankathryn@example.org,+17819324268,West,GA,B2C,06-Apr-2026,Active,True,37
+C539,Kelly Brooks,gwendolynstewart@example.com,689-138 - 2496,West,TX,B2C,04/29/2025,Active,YES,53
+CUST-615,Tammy King,zwest@example.org,929-420 - 9548,North,IL,Guest,2023-08-08,Inactive,False,30
+CUST-465,Mercedes Davis,timothyalvarado@example.net,301-702 - 6952,East,MI,B2C,10/28/2024,Inactive,False,51
+CUST-999,Elizabeth Allen,,,East,,,16-Apr-2023,Inactive,0,52
+CUST-363,April Trevino,sanchezthomas@example.com,9223306046,South,AZ,B2C,2022-05-09,Active,1,62
+CUST-544,Michelle Martin,,,West,,,19-Aug-2025,Inactive,NO,39
+CUST-618,Steve Wright,,,West,,,08/03/2021,Active,True,62
+CUST-061,Terry Griffin,juliawells@example.com,(474) 846 - 7737,Central,NY,B2C,14-Sep-2024,Churned,NO,68
+CUST-842,Lori Rubio,vargasjoshua@example.net,(505) 319 - 4979,West,WA,B2C,10/31/2023,Active,True,66
+CUST-0025,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,uowens@example.org,(531) 586 - 9232,South,TN,B2C,2022-01-11,Active,1,27
+CUST-093,Julie Johnson,jasmine71@example.net,(555) 231 - 2432,Central,NY,B2C,29-Mar-2024,Inactive,0,33
+CUST-635,Brian Carter,yhall@example.net,8827788160,Central,FL,Guest,01/09/2026,Inactive,False,64
+CUST-382,Nathaniel Crawford,lvega@example.com,(378) 078 - 2357,Central,IL,B2C,04/16/2025,Active,True,46
+C507,Sarah Phillips,kennetheaton@example.net,419-416 - 8006,North,CA,B2B,09/26/2023,Active,YES,24
+C694,Rebecca Nguyen,sparksamanda@example.com,(989) 046 - 3378,West,TX,B2B,11-Nov-2023,Active,YES,45
+CUST-875,Judith Smith,monicamccann@example.com,+12216667080,Central,PA,B2B,2025-05-15,Active,True,31
+CUST-854,Sandra Herring,tyler13@example.net,(456) 523 - 7341,East,WA,B2C,08-Jun-2021,Active,YES,54
+CUST-973,Krystal Jones,julieanderson@example.net,775-983 - 3991,East,AZ,B2B,2026-02-16,Churned,0,20
+CUST-632,Christy Payne,ana92@example.net,4408222694,North,TN,B2C,2022-03-10,Churned,False,33
+CUST-245,Tonya Howe,smithashley@example.org,(944) 666 - 0993,East,AZ,B2C,29-Dec-2021,Inactive,NO,39
+CUST-347,Megan Jones,,,South,,,07/17/2021,Inactive,NO,45
+CUST-353,Scott Carroll,amy27@example.org,+17979270335,South,CO,B2C,02/07/2023,Active,True,43
+CUST-276,Dennis Hunt,,,South,,,2025-12-05,Active,1,22
+CUST-266,Nicole Parsons,williamroberts@example.net,+15758997571,North,CO,B2C,05/28/2022,Active,1,28
+CUST-308,Matthew Espinoza,,,West,,,12/26/2022,Active,1,68
+CUST-919,Shelly Munoz,mccarthysara@example.com,(791) 191 - 8623,South,MI,B2C,11-Sep-2021,Churned,False,999
+CUST-529,Brandy Hunt,,,North,TX,B2C,15-Apr-2025,Active,YES,20
+CUST-515,Sherry Ford,kim78@example.org,8743380054,East,WA,B2B,03/11/2026,Inactive,0,23
+CUST-111,John Mcintyre,qhughes@example.net,2345054156,West,AZ,B2C,2020-10-12,Churned,False,41
+C737,James Norris,imartinez@example.com,+18260787010,East,MA,Guest,01/02/2025,Active,YES,35
+CUST-579,Cameron Rose,,,West,,,2022-10-29,Inactive,False,49
+CUST-535,Autumn Olson,,,North,MA,B2C,12/06/2024,Active,1,24
+CUST-696,Rachel Graham,amy32@example.net,800-025 - 8955,South,MI,Guest,04/25/2026,Active,YES,28
+CUST-534,Chase Davis,mvalenzuela@example.org,(578) 018 - 2043,South,MA,B2C,26-Mar-2026,Churned,NO,52
+CUST-449,Leah Jackson,jennifer06@example.net,6627301471,Central,AZ,B2C,03/17/2022,Active,True,41
+CUST-295,Kevin James,,,Central,AZ,B2C,2024-01-31,Inactive,NO,25
+CUST-300,Eric Snyder,,,East,,,07-Nov-2021,Active,YES,52
+CUST-825,Micheal Perkins,katelyn65@example.com,4079799667,South,IL,B2C,27-Aug-2024,Active,1,56
+CUST-759,Andrea Young,uwatkins@example.com,+18711148375,South,GA,B2C,07/15/2024,Churned,False,51
+CUST-996,Jeremiah Welch,bradley03@example.org,8395613723,North,TN,B2C,22-May-2021,Active,1,28
+CUST-750,David Perkins,craigboone@example.net,5978559821,West,OH,B2C,02/12/2025,Churned,NO,32
+CUST-665,Candace Mitchell DDS,tammycurry@example.com,+13475410225,South,OH,B2C,2023-12-16,Inactive,0,38
+CUST-571,Christina Johnston,,,East,,,2026-03-11,Inactive,0,74
+CUST-291,Daniel Thomas,thickman@example.org,+19881658039,South,CO,B2C,02/01/2023,Active,True,25
+CUST-775,Christopher Hansen,castrokim@example.org,839-283 - 6929,East,CO,B2C,2020-10-03,Active,YES,24
+CUST-138,Scott Thomas,amberlindsey@example.org,5454019380,South,OH,Guest,2025-06-24,Active,1,45
+CUST-410,Jaclyn Griffin,scott43@example.com,+14140665044,South,GA,B2B,2023-07-26,Churned,NO,48
+CUST-421,Melinda Compton,dennismccann@example.com,2021946723,South,WA,B2C,08/04/2024,Active,True,68
+CUST-742,Joseph Flowers,,,West,,,2025-11-18,Active,True,75
+CUST-797,Tyler Avila,smithdanielle@example.com,+12447314976,East,OH,B2B,2023-04-07,Churned,0,38
+CUST-287,Sarah Valdez,davisnicholas@example.net,691-357 - 7594,Central,NY,B2C,12/17/2022,Active,1,68
+CUST-592,Corey Skinner,hclayton@example.net,(840) 355 - 3380,South,CO,B2C,11-Jan-2025,Inactive,0,40
+CUST-848,Ronald Brown,meghanadams@example.com,608-572 - 1696,West,OH,B2B,2023-11-25,Active,True,45
+CUST-030,Rachel Mitchell,smoore@example.org,+16656482366,South,MI,B2C,31-Aug-2022,Active,True,60
+CUST-261,Michael Stanley,,2277167014,East,CA,B2C,2023-08-15,Inactive,0,28
+CUST-079,David Michael,nicole37@example.net,(428) 421 - 0205,South,MI,B2C,2022-09-10,Active,YES,18
+CUST-216,Pamela Butler,jimenezcourtney@example.com,+19209993476,Central,GA,B2B,2022-08-30,Active,1,68
+C789,Rebecca Chandler,hmorgan@example.net,+19413146753,West,TX,B2B,16-Apr-2025,Churned,NO,51
+CUST-166,Sonia Day,michelle52@example.com,2477358662,Central,WA,B2C,2024-03-24,Inactive,False,56
+CUST-249,Angie Caldwell,tinawoods@example.org,7217525007,East,FL,B2C,01/18/2024,Active,1,19
+CUST-786,David Lopez,wadetiffany@example.org,203-296 - 3347,South,GA,B2C,18-Apr-2025,Inactive,False,57
+CUST-779,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,rodriguezjoshua@example.net,9229812099,East,WA,B2C,2024-04-21,Active,1,61
+CUST-963,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,christopher12@example.net,9015959194,East,GA,B2C,10/21/2022,Inactive,False,60
+CUST-335,Sharon Martinez DVM,dustinmorris@example.org,332-719 - 5005,South,AZ,B2C,2020-11-30,Active,True,52
+CUST-598,Jonathan Parks,sarah00@example.com,+19491601692,South,CO,B2C,2021-03-04,Active,True,36
+CUST-927,Peter Keller,rachelbrown@example.net,3815899886,Central,WA,B2B,07-Feb-2024,Active,YES,23
+CUST-066,Tiffany Barnes,tracynelson@example.com,2913431611,West,NY,B2C,23-Sep-2023,Churned,0,26
+CUST-366,John Campbell,mark87@example.org,(676) 447 - 2649,North,AZ,B2C,10/27/2023,Active,1,32
+CUST-978,Wanda Perez,prosario@example.org,431-555 - 1651,West,OH,B2C,04/10/2025,Active,True,41
+CUST-255,Kelsey Cox,brownamy@example.net,(818) 499 - 2618,Central,TX,B2C,2021-02-08,Inactive,NO,28
+CUST-709,Jeff Smith,pbradford@example.net,7381649383,North,NC,B2C,07-Jun-2023,Active,True,74
+CUST-820,Nathan Miller,swilson@example.com,440-642 - 4295,West,FL,B2C,28-May-2026,Active,YES,30
+CUST-222,Mr. Alexander Landry MD,,,West,,,05/19/2024,Inactive,0,49
+CUST-236,Todd Hendrix,,,East,,,2025-02-26,Active,YES,39
+CUST-495,Jennifer Bailey,elizabethrivera@example.com,+16494856257,South,NC,Guest,2023-12-13,Inactive,False,23
+CUST-523,Jesse Williams,,,South,,,09/17/2023,Active,True,24
+CUST-297,Jill Juarez,,,East,,,15-Jun-2020,Active,YES,67
+CUST-581,Joyce Curry,omills@example.net,(767) 243 - 8070,North,WA,B2C,01-Dec-2021,Inactive,NO,33
+CUST-959,Justin Glover,ashley71@example.net,(310) 633 - 0165,Central,FL,B2C,04/10/2021,Active,YES,29
+CUST-250,David Molina,kevin90@example.com,329-666 - 6760,North,NC,B2B,2020-06-20,Active,YES,24
+CUST-600,Jessica Lee,ihoward@example.com,4439920116,West,AZ,B2C,14-May-2023,Churned,False,33
+CUST-448,Terry Burnett,perezjessica@example.org,6947873002,East,IL,Guest,01/05/2022,Inactive,0,51
+CUST-072,Michael Elliott,stevenscott@example.com,485-884 - 2474,East,CO,B2B,06/10/2022,Churned,False,60
+CUST-095,Samantha Jones,lauralarson@example.net,+12581477005,East,TX,B2C,04-Sep-2021,Churned,False,999
+CUST-034,Taylor Harris,john62@example.net,5172788957,Central,MA,B2C,03/21/2025,Active,1,55
+CUST-260,Jason Mack,ybrooks@example.com,9621202169,West,CO,B2C,04-Jun-2024,Active,1,44
+CUST-205,David Griffin,heather73@example.org,7365419518,North,NY,B2B,05/30/2021,Active,YES,70
+CUST-814,Christine Santana,ellenjohnson@example.org,(604) 760 - 4409,North,MA,B2C,18-Jun-2021,Active,YES,45
+CUST-799,Rodney Turner MD,dhansen@example.org,9579145211,Central,NY,B2B,02/13/2025,Churned,False,62
+CUST-356,Bradley Miller,terrimoore@example.com,+19016451046,South,OH,B2C,08/25/2025,Inactive,NO,30
+CUST-078,Tamara Hampton,ugraham@example.net,(529) 318 - 3933,East,CO,B2B,2022-09-16,Churned,0,29
+CUST-085,Melissa Lee,lhill@example.net,931-585 - 1493,West,MA,B2C,12/19/2024,Inactive,False,23
+CUST-334,Scott Duke,taylorkaren@example.com,565-024 - 9163,North,CA,B2C,04/13/2025,Inactive,NO,62
+CUST-083,Michael Torres,thomas85@example.com,8156545271,North,MA,B2B,2022-11-30,Active,True,34
+CUST-434,Francisco Taylor,rioswhitney@example.com,2552818325,South,NC,B2B,07-Jul-2025,Active,True,21
+CUST-658,Michael Acosta,nicholasjames@example.org,565-271 - 7272,South,FL,B2C,2023-07-01,Churned,NO,27
+CUST-458,Brian York,smithdevon@example.net,+14893891190,Central,FL,B2C,2023-01-26,Churned,NO,36
+CUST-0095,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,lauralarson@example.net,+12581477005,East,TX,B2C,04-Sep-2021,Churned,False,28
+CUST-614,Jennifer Schultz,charlene98@example.org,7289931608,West,PA,B2B,2023-03-04,Churned,0,55
+CUST-479,Sonya Gordon,mbarnes@example.net,+14070015941,West,TN,B2C,01-Jan-2026,Inactive,False,29
+CUST-324,Tamara Arias,angelaburns@example.org,843-347 - 2282,North,CA,B2C,10/25/2025,Churned,False,68
+CUST-006,Lisa Hensley,janetwilliams@example.org,(256) 413 - 9537,West,TN,Guest,11/26/2022,Active,YES,21
+CUST-463,Michael Roberson,timothyfreeman@example.com,(415) 353 - 9613,West,AZ,B2C,11-Aug-2025,Inactive,False,73
+CUST-105,Emily Smith,hdavis@example.com,+12515220472,West,GA,B2C,06/12/2022,Churned,False,58
+CUST-098,Laura Sampson,barbara27@example.net,2515186449,South,PA,B2B,2026-02-22,Inactive,0,30
+CUST-310,Kimberly Little,rodriguezjohn@example.net,+19907141633,East,OH,Guest,2026-05-18,Active,1,40
+CUST-425,Anthony Ward,joshuacolon@example.net,278-113 - 7995,West,FL,B2C,07/14/2022,Churned,0,33
+CUST-412,Antonio Hughes,,,East,,,05-Jun-2025,Active,True,53
+CUST-940,Jeremiah Galvan,adennis@example.org,+12213060906,Central,TX,Guest,2025-10-28,Inactive,NO,53
+CUST-282,Chris Robinson,nbrooks@example.net,+13934667665,North,OH,B2C,19-May-2022,Active,1,18
+C267,Kyle Chambers,joel28@example.org,+16885102726,North,IL,B2C,23-Apr-2025,Active,1,41
+CUST-482,Donna Reed,tinasantos@example.org,+13586734257,East,MA,B2C,12-Mar-2022,Active,YES,55
+CUST-680,Paula Gentry,,,East,,,08/05/2023,Active,True,40
+CUST-596,Cynthia Hamilton,jacksonjoshua@example.org,8614982824,West,GA,B2C,04/06/2022,Active,YES,44
+CUST-990,Kelly Sandoval,brianhunter@example.net,214-473 - 4043,South,AZ,B2C,07/19/2023,Active,True,71
+CUST-930,Marissa Terry,trowe@example.org,+15580688285,North,TN,B2B,2025-09-20,Active,YES,32
+C849,Michael Young,daniellee@example.org,399-605 - 9329,West,WA,B2B,11/27/2025,Active,1,53
+CUST-119,Joel King,elizabeth74@example.net,314-678 - 6691,South,PA,B2C,15-May-2025,Active,1,30
+CUST-713,Kimberly Riley,bergeramanda@example.org,(677) 159 - 1030,North,NY,B2B,2021-01-27,Active,True,35
+CUST-251,David Contreras,zparker@example.net,(500) 335 - 4216,Central,MI,B2C,2025-12-20,Active,YES,26
+CUST-669,Ryan Green,sara99@example.com,+16728633302,North,AZ,B2C,11/08/2022,Active,1,51
+CUST-553,Kristine Carrillo,susan77@example.net,(280) 466 - 1963,Central,CO,B2C,05-Mar-2024,Active,1,69
+CUST-381,Anna Boone,david70@example.org,+17046173574,South,NC,B2C,07-Mar-2024,Active,True,20
+CUST-010,Renee Morales,clarksherri@example.net,+15252880957,North,TX,Guest,11-May-2022,Churned,False,27
+CUST-372,Kathy Walsh,,,East,,,02/17/2021,Active,YES,67
+CUST-197,James Gonzales,lmorgan@example.com,+12438983640,South,GA,B2C,17-Jul-2023,Active,1,18
+CUST-644,Sheryl Gutierrez,vturner@example.net,6471639282,South,IL,B2C,2020-08-29,Churned,False,18
+CUST-082,Peter Vaughn DDS,bwest@example.org,+16789611836,West,TN,B2B,2023-11-13,Active,True,28
+CUST-433,Margaret Hensley MD,,,East,TN,B2B,2023-04-09,Active,True,24
+CUST-528,Mr. Daniel Martin,,,West,,,2021-05-17,Active,1,48
+CUST-757,Michael Williams,justin64@example.com,+15560331903,West,AZ,B2C,2024-08-22,Inactive,False,64
+C240,Cynthia Williams,danawilliams@example.com,(235) 797 - 2798,East,PA,B2B,24-Aug-2025,Churned,0,30
+CUST-704,Jennifer Flores,bsullivan@example.net,(431) 244 - 7315,Central,WA,B2C,2024-01-31,Inactive,0,51
+CUST-212,Kelly Torres,marcusfletcher@example.com,690-352 - 1356,Central,CA,B2C,18-Nov-2020,Active,1,64
+C763,Andrew Carroll,derek77@example.com,880-408 - 5095,East,CO,B2C,17-Feb-2022,Active,1,35
+CUST-414,Mrs. Tiffany Cole,teresastokes@example.org,+12158517432,Central,CA,Guest,2026-03-05,Inactive,False,64
+CUST-514,Erik Floyd,,,West,,,01/20/2024,Active,YES,44
+CUST-228,James Jensen,brittney88@example.net,644-310 - 6987,South,CA,B2C,2025-08-16,Active,1,36
+CUST-910,Mrs. Jennifer Palmer DDS,dhall@example.net,701-394 - 8848,Central,NY,B2C,02/15/2025,Inactive,NO,35
+CUST-426,Becky Johnson,,731-363 - 6317,Central,GA,B2B,10/15/2023,Active,YES,37
+CUST-845,Kelli Lopez,vlewis@example.com,796-604 - 8736,Central,NY,B2C,26-Jul-2020,Churned,0,999
+CUST-178,Richard Romero,stanleynancy@example.net,+13775140105,North,WA,B2C,2021-01-24,Churned,False,72
+CUST-993,Christopher Gibson,crawfordsamantha@example.net,8561942557,West,CO,B2C,16-Dec-2022,Inactive,NO,48
+CUST-450,Lisa Wheeler,stanleydesiree@example.org,9158904290,South,PA,B2C,2022-08-02,Inactive,False,22
+CUST-526,Adriana Macias,emartin@example.net,649-268 - 3158,Central,FL,B2C,2024-07-05,Active,True,24
+CUST-527,Chris Moore,guerrerorobert@example.com,(861) 106 - 2737,North,PA,B2C,11/19/2025,Active,YES,75
+CUST-537,Robert Velez,colemanjonathan@example.org,+12046152654,West,MA,Guest,08/27/2023,Active,YES,28
+CUST-424,Kelly Carroll,jameswhitaker@example.org,4005436459,West,CA,B2B,07/25/2021,Active,1,38
+CUST-008,Michael Miles,lynchgeorge@example.net,(469) 166 - 9784,Central,MA,Guest,07/24/2023,Inactive,0,74
+CUST-156,Donald Fischer,reeddaniel@example.net,+19854458771,West,CO,B2C,2025-07-29,Churned,0,55
+CUST-577,Kara Brown,fwarren@example.org,(523) 467 - 2994,Central,FL,B2C,2020-12-14,Inactive,NO,71
+CUST-885,Dalton Mitchell,karencarson@example.net,427-009 - 3459,West,MA,B2B,18-Jun-2021,Active,1,35
+CUST-330,Ronald Potter,nancy07@example.com,+14080214427,North,FL,B2B,01/10/2024,Active,True,39
+CUST-532,Samantha White,gary57@example.net,4287772519,Central,OH,B2C,2021-08-16,Churned,False,41
+CUST-823,Megan Wilson,lmorales@example.org,(543) 740 - 1827,South,GA,B2C,19-Feb-2024,Active,True,999
+CUST-826,Jennifer Washington,dylan71@example.org,8403816649,West,MI,B2B,30-Jan-2026,Active,True,54
+CUST-604,Cynthia Le,rlee@example.com,667-912 - 1416,North,IL,B2B,07/05/2023,Active,True,25
+CUST-829,Christina Bates,iwagner@example.com,(451) 786 - 3767,South,CO,Guest,2024-08-06,Active,YES,24
+CUST-616,Ms. Kelly Holder,adam33@example.com,5746052330,South,MA,B2C,14-Sep-2020,Active,True,65
+CUST-992,Vicki Greene,melissa95@example.net,+14556296575,East,NY,B2C,16-Jun-2024,Inactive,NO,28
+CUST-605,Douglas Ortiz,,,Central,,,2025-02-06,Active,True,63
+CUST-478,Priscilla Kent,jessicaanderson@example.com,(503) 477 - 8660,South,NY,B2C,07/08/2024,Active,YES,25
+CUST-809,Karen Collins,don79@example.net,4033192227,North,PA,B2B,07/11/2021,Churned,False,24
+CUST-621,Felicia Hobbs,hbutler@example.org,(847) 501 - 1117,Central,FL,B2B,2020-11-19,Active,YES,29
+CUST-753,Jerry Allen,cheryljohnson@example.org,(940) 056 - 4350,South,FL,B2C,07-Nov-2025,Inactive,NO,59
+CUST-905,Melissa Lopez,clarkdeborah@example.net,(313) 599 - 6605,West,MA,B2C,12-May-2021,Churned,0,66
+CUST-164,Sabrina Briggs,curtisscott@example.org,+12250392614,South,MI,B2B,25-May-2023,Inactive,False,999
+CUST-229,Elizabeth Cabrera,mark16@example.net,+19310324171,East,CO,B2C,29-Jul-2024,Active,1,67
+CUST-865,Jeremy Davidson,moralescourtney@example.com,6448354884,West,TX,Guest,13-Nov-2025,Churned,0,65
+CUST-979,Arthur Garrett,,,North,WA,B2C,23-Oct-2021,Active,True,58
+CUST-213,Sarah King,david49@example.net,878-831 - 7121,North,CA,B2C,10/28/2024,Churned,NO,68
+CUST-080,Gabrielle Snyder,hunter35@example.com,(881) 177 - 5891,West,NC,B2B,08/08/2025,Active,1,73
+CUST-149,Michelle Schmitt,michael98@example.org,5752431069,North,FL,B2B,01/04/2024,Active,True,66
+CUST-303,Rodney Curtis,kevinmorrison@example.net,+18959463688,West,NY,B2C,2023-04-04,Active,1,25
+CUST-389,Ryan Bruce,joelstewart@example.net,+14557701715,West,GA,B2C,2023-09-18,Active,YES,41
+CUST-519,Raymond Quinn,dennis88@example.org,(954) 821 - 4565,South,NY,B2C,10/01/2023,Active,1,65
+CUST-542,Eric Cooper,qfitzgerald@example.org,(663) 985 - 5474,South,WA,Guest,07/10/2024,Active,True,33
+CUST-890,Scott Solis,marcus01@example.net,(364) 913 - 3424,East,AZ,Guest,02-Apr-2025,Inactive,NO,75
+CUST-044,Tammy Young,theresacochran@example.com,484-987 - 7694,East,MA,B2B,2025-09-09,Churned,0,43
+CUST-391,Rita Waller,gregory01@example.org,476-153 - 9669,East,NC,B2C,04-Jan-2022,Active,1,39
+CUST-134,Diana Vaughn,scottsampson@example.com,+16973348434,East,AZ,B2B,18-Nov-2023,Inactive,0,55
+CUST-716,William Lamb,mitchellchristopher@example.net,9457314415,Central,MA,Guest,13-Apr-2025,Inactive,False,67
+CUST-312,David Dixon,seanmyers@example.net,573-334 - 3333,Central,PA,B2B,24-Apr-2021,Active,True,23
+CUST-491,Michael Lopez,jillwilson@example.org,+19359710725,West,WA,B2B,03/24/2024,Active,YES,53
+CUST-1000,Stephen Anderson,jamesgray@example.com,(770) 607 - 1748,North,TX,B2B,2020-12-19,Inactive,False,29
+CUST-697,Timothy Andrews,mwilson@example.com,8096262658,South,OH,B2B,02/08/2026,Inactive,False,21
+CUST-837,Susan Jones,danny20@example.net,(740) 915 - 0863,South,TX,B2C,2023-01-24,Active,True,20
+CUST-001,Patrick Sanchez,jillrhodes@example.net,(633) 218 - 1960,North,TX,B2B,11/06/2025,Active,1,27
+CUST-494,Emily Robinson,,,South,,,2021-01-11,Inactive,NO,72
+CUST-383,Denise Griffin,,,Central,,,28-Mar-2022,Active,True,30
+CUST-317,Joel Salinas,jacobsandoval@example.com,514-386 - 6322,West,CO,B2B,04-Mar-2025,Active,1,30
+CUST-766,Joel Smith,pfitzgerald@example.org,+16901495427,West,CA,B2C,2025-06-10,Active,True,51
+C584,Theresa Woods,,(242) 752 - 3083,West,AZ,B2B,05-Apr-2026,Active,1,31
+CUST-866,Christopher Black,melaniejennings@example.com,7877221641,West,PA,B2C,04/22/2025,Active,True,22
+CUST-568,Emily Tucker,anna90@example.com,9546027341,East,TN,B2B,2024-10-22,Inactive,False,18
+CUST-991,Craig Gonzalez,kristenpeterson@example.net,(887) 304 - 5195,West,MA,B2C,15-Nov-2020,Active,True,75
+CUST-429,Jason Smith,wellsdavid@example.org,887-397 - 7406,South,FL,B2C,03/03/2022,Active,YES,45
+CUST-173,Maria Jones,grantpaul@example.com,3939828073,West,CO,B2C,2020-11-08,Inactive,NO,46
+CUST-126,Carlos Ryan,alyssa42@example.com,3687339500,East,GA,B2C,12/11/2023,Inactive,0,65
+CUST-454,Heather Ortiz,benjamincrawford@example.org,(911) 207 - 5452,West,TN,Guest,2024-11-10,Active,True,37
+CUST-483,Mallory Page,anna99@example.net,(234) 864 - 5183,West,OH,B2B,11-Sep-2024,Churned,0,69
+CUST-589,Alison Compton,joseph70@example.org,395-625 - 2571,East,CA,B2C,2020-10-31,Active,True,70
+CUST-171,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,hritter@example.net,324-065 - 9657,East,OH,B2C,2021-02-16,Churned,0,22
+CUST-091,Wanda Torres,lynchjody@example.org,7969664160,East,NY,B2C,12/09/2022,Active,YES,74
+CUST-997,Stephen Higgins,melanie32@example.org,(414) 364 - 3813,North,CA,B2B,2022-10-29,Active,YES,41
+C182,Tracy Montoya,moniquewilliams@example.com,+13251341252,Central,OH,B2C,08-Sep-2024,Active,1,60
+CUST-364,Tyler Johnson,pwalker@example.com,479-757 - 3660,Central,AZ,B2C,09/08/2021,Inactive,0,22
+CUST-275,Christine Herman,kimberly67@example.net,7989334721,South,NY,B2C,04/30/2026,Active,YES,58
+CUST-950,Kimberly Todd,karenshaw@example.org,(828) 874 - 3127,North,CO,B2B,17-Jan-2022,Churned,False,35
+C70,Julie Curry,cookemichael@example.net,+16064090974,South,MI,B2C,22-Jul-2022,Active,YES,63
+C292,Ruben Price,patrick21@example.net,475-037 - 3145,South,CA,B2C,17-Mar-2025,Active,1,66
+CUST-132,Stephen Taylor,vwatson@example.net,823-091 - 3075,West,NY,B2C,25-May-2021,Active,1,74
+CUST-301,Heather Raymond,mwheeler@example.com,859-916 - 2473,North,IL,B2C,2024-07-12,Active,YES,47
+CUST-508,Travis Spencer,davidsmith@example.net,9499564122,North,FL,B2B,03-Dec-2025,Active,YES,75
+CUST-327,Andre Juarez,antonio38@example.com,678-077 - 4064,Central,FL,B2C,2021-10-31,Active,1,22
+CUST-145,Matthew Rich,russellbeasley@example.com,425-871 - 3971,Central,GA,B2C,19-May-2026,Active,True,55
+CUST-486,Antonio Mueller,karenjohnson@example.com,920-634 - 5911,South,FL,B2C,17-Jul-2022,Churned,False,21
+CUST-844,Jason King,jpowers@example.org,3785138544,East,GA,B2C,01/01/2025,Active,True,52
+C850,Justin Graham,harrisjoseph@example.org,5275327352,East,TX,Guest,19-Jan-2023,Active,YES,19
+CUST-136,Daniel Fowler,williamsmatthew@example.org,(947) 338 - 4842,North,MI,B2C,2024-04-11,Active,YES,57
+CUST-468,Krista Gray,christianwallace@example.net,3978897782,Central,CA,B2C,2020-11-02,Active,1,72
+CUST-165,Peter Jones,kmarshall@example.net,7621850163,North,PA,B2C,14-Jul-2025,Active,YES,74
+CUST-029,John Hancock,martinaaron@example.com,(808) 835 - 6159,East,WA,B2C,28-Oct-2021,Inactive,0,59
+CUST-599,Joshua Rodriguez,jhall@example.net,+19506633705,North,AZ,B2C,22-Nov-2025,Active,True,35
+CUST-194,Robin Brown,mjohnson@example.org,(716) 271 - 3611,North,PA,B2C,24-Jun-2024,Active,1,46
+CUST-446,Jonathan Torres,,(967) 426 - 6299,North,NY,B2B,07/04/2021,Active,True,44
+CUST-679,Shawn Watson,,,Central,,,2023-12-06,Active,YES,42
+CUST-585,Kimberly Lopez,,,South,,,2022-05-18,Active,True,57
+C170,John Hernandez,hayeslisa@example.com,3264647154,South,AZ,B2C,01/04/2022,Active,True,71
+CUST-536,Kelly Wood,wolferoy@example.com,(382) 422 - 4124,West,WA,B2B,03/08/2026,Active,YES,34
+CUST-141,Jonathan Dougherty,acostaregina@example.net,868-516 - 1227,East,TN,B2B,06/17/2025,Active,YES,69
+CUST-174,Lindsey Hernandez,aguilardonald@example.com,9243426617,Central,GA,B2C,29-Dec-2025,Active,YES,34
+CUST-007,Dr. Sharon James,xreid@example.org,+15884969653,South,NC,B2C,11/15/2022,Inactive,False,55
+CUST-683,Felicia Small,meyerdonna@example.com,(238) 021 - 4629,West,MA,B2B,19-Jun-2025,Active,True,60
+CUST-530,Linda Elliott,johnsjessica@example.com,745-447 - 0229,West,CA,Guest,10/21/2024,Active,YES,48
+CUST-693,Joel Jackson,,,West,,,15-May-2021,Churned,NO,18
+CUST-074,Susan Brooks,charlesvaughn@example.net,7137098593,North,WA,B2C,24-Jan-2023,Churned,0,66
+CUST-899,Heather Richards,wilsondorothy@example.org,466-933 - 5134,South,TN,B2C,2025-03-31,Inactive,False,34
+CUST-126,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,alyssa42@example.com,3687339500,East,GA,B2C,12/11/2023,Inactive,NO,70
+CUST-239,John Harris,sarah42@example.org,(530) 307 - 0534,East,MA,B2C,12/28/2025,Active,True,59
+CUST-146,Jennifer Blair,ronald45@example.org,2874064039,North,CA,B2C,2023-04-18,Inactive,False,53
+CUST-906,Mark Tyler,christophercarrillo@example.org,(803) 920 - 5146,North,AZ,B2C,2022-06-20,Churned,NO,999
+CUST-235,Gloria Gomez,chelsea33@example.com,319-148 - 5646,West,MI,B2C,04/27/2024,Active,True,64
+C221,Taylor Griffith,kathrynjimenez@example.net,7932525002,Central,AZ,Guest,10/08/2021,Inactive,0,21
+CUST-215,Kristy Bryan,millerstacy@example.net,+12702966706,West,NY,B2C,04/13/2023,Churned,NO,58
+C963,Patrick Hart,christopher12@example.net,9015959194,East,GA,B2C,10/21/2022,Inactive,False,30
+CUST-133,Patrick Moore,fpena@example.net,2283857865,South,GA,Guest,02-Jan-2025,Active,YES,51
+CUST-570,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,maurice61@example.com,+14840445669,North,GA,B2C,04/04/2023,Churned,False,54
+CUST-617,Terri Short,clintonstevens@example.org,856-756 - 6184,East,AZ,Guest,08/05/2020,Inactive,0,34
+CUST-846,Kim Mendez,umichael@example.net,(833) 194 - 2268,West,PA,B2C,09/09/2022,Active,YES,49
+CUST-423,Sharon Nicholson,cameronmckinney@example.com,(788) 373 - 4031,South,WA,B2C,13-Jul-2024,Churned,False,58
+CUST-186,Charles Johnson,ihorton@example.net,+12783613407,East,PA,Guest,09-Dec-2025,Active,1,43
+CUST-042,Jacob Tran,tanderson@example.com,(249) 663 - 1931,East,MA,B2C,19-Jan-2025,Inactive,False,41
+CUST-651,Todd Armstrong,meyershannon@example.org,685-571 - 6176,Central,TN,Guest,2023-01-27,Inactive,0,18
+CUST-109,Jill Washington,andrea86@example.com,+12515319520,East,NC,B2C,2024-07-29,Active,1,69
+CUST-717,Diana Anderson,,,West,TX,,23-Jan-2021,Inactive,NO,18
+CUST-057,Angel Riggs,gibsonolivia@example.net,4967175655,North,MA,B2B,2022-02-07,Active,True,49
+CUST-708,Jessica White,carnold@example.com,7313552510,East,AZ,B2B,04/29/2026,Active,1,25
+CUST-803,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,thomassteven@example.net,4872866041,West,IL,B2C,2024-10-08,Churned,False,44
+CUST-994,Julie Lewis,vnavarro@example.net,(495) 829 - 2361,West,TN,B2B,2022-04-22,Active,True,42
+CUST-914,Sandra Nunez,laura29@example.org,8964546553,East,NC,B2C,09/24/2023,Churned,0,66
+CUST-436,Karen Shepard,william28@example.org,(679) 513 - 7116,South,IL,Guest,2024-12-16,Active,1,60
+CUST-025,Matthew Gomez,uowens@example.org,(531) 586 - 9232,South,TN,B2C,2022-01-11,Active,True,48
+CUST-480,Victor Waller,iballard@example.com,(431) 981 - 8984,West,TN,B2B,2022-07-10,Active,1,54
+CUST-583,Aaron Ochoa,mauriceharrison@example.org,927-422 - 0912,East,TX,B2C,25-Sep-2021,Active,True,45
+CUST-813,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,turneralex@example.org,4037583094,East,TX,Guest,2025-06-15,Churned,NO,999
+CUST-671,Mario Wilson,laurenduarte@example.com,(822) 728 - 4765,West,CO,B2C,01-Jun-2021,Active,YES,35
+CUST-892,Dominique Goodwin,davidhenry@example.com,850-977 - 5396,West,FL,B2C,09/19/2023,Active,True,23
+CUST-984,Samuel Morales,mhall@example.net,(333) 943 - 9457,North,WA,B2C,2025-03-02,Active,True,71
+CUST-339,Jennifer Donaldson,troymorris@example.com,982-945 - 6511,Central,WA,B2B,12-Dec-2020,Inactive,False,58
+CUST-052,Mary Martinez,william65@example.com,877-496 - 4990,Central,AZ,B2B,21-Mar-2023,Inactive,0,69
+CUST-384,Jason Pierce,millerpatrick@example.com,(609) 435 - 3344,Central,PA,B2C,12/01/2025,Inactive,False,18
+CUST-550,Molly Hansen,,,North,,,06-Mar-2021,Active,1,73
+CUST-887,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,longbrittany@example.org,+19026086982,South,TX,B2B,03/03/2026,Churned,False,32
+CUST-674,Alyssa Thompson,martha77@example.org,(975) 662 - 0563,East,TX,B2B,01-Apr-2025,Active,1,30
+CUST-982,William Rangel,sedwards@example.org,+14632809448,East,NC,B2C,02-May-2025,Inactive,NO,66
+CUST-265,Kirk Griffin,sanchezbradley@example.com,2880199488,South,WA,B2C,2022-03-01,Churned,0,64
+C573,Margaret Mcfarland,kwelch@example.com,+15666845909,North,TN,B2B,2021-08-23,Churned,NO,54
+CUST-756,Mary Hill,danielhernandez@example.com,808-706 - 6266,Central,NY,B2B,11-May-2024,Active,1,35
+CUST-951,Kim Rivers,kristin39@example.com,9209579927,North,GA,Guest,2021-06-07,Active,True,30
+CUST-445,Michael Sims,jeremywiley@example.com,(762) 656 - 5045,East,IL,Guest,04-Dec-2024,Churned,False,72
+CUST-396,Wayne Steele,jeffrey92@example.com,5272386562,East,MA,B2C,2023-02-09,Active,1,38
+CUST-552,Travis Pratt,nancy94@example.net,3100651207,North,IL,B2C,09-Sep-2024,Active,1,58
+CUST-177,Christopher Lewis,ilee@example.org,271-461 - 1254,East,GA,B2C,2020-07-25,Active,True,59
+CUST-019,Rose Spence,davidalvarez@example.net,5990916998,East,TN,B2C,02/20/2021,Inactive,False,39
+CUST-761,Jaime Walker,drichards@example.com,548-315 - 2037,West,TX,B2B,02-Dec-2023,Inactive,0,62
+CUST-533,James Anderson,harrismichele@example.net,+12741209481,Central,TX,B2B,07-Jun-2025,Active,YES,999
+CUST-606,Andre Rodriguez,coreyduncan@example.com,+19596555535,West,OH,B2C,2021-07-07,Churned,False,44
+CUST-619,Morgan Cummings,sthompson@example.net,259-126 - 6201,East,GA,B2B,02-Apr-2025,Active,True,26
+CUST-368,Kimberly Flynn,adamortiz@example.org,345-211 - 1751,Central,AZ,B2C,2022-01-27,Inactive,NO,60
+CUST-084,Michael Nelson,jerry35@example.org,+12988516560,East,MI,B2C,02/02/2025,Active,True,44
+CUST-062,Destiny Strickland,rsims@example.com,665-840 - 4499,West,MA,B2B,07/07/2022,Active,True,63
+CUST-500,Austin Santiago,,,Central,,,11-Dec-2024,Active,1,73
+CUST-273,Benjamin Ballard,timothybooth@example.com,620-438 - 0571,Central,MA,B2C,2025-07-16,Active,1,62
+CUST-286,Angela Chung,scunningham@example.org,287-814 - 1413,Central,GA,Guest,07-Sep-2022,Active,1,67
+CUST-361,Austin Joseph,crawfordwilliam@example.org,(720) 566 - 4742,South,TX,B2B,01/23/2024,Active,YES,55
+CUST-355,Pamela Henderson,imiller@example.net,+19920698042,North,IL,B2B,03-Oct-2025,Inactive,0,28
+C939,Michael Powell,,,North,,,16-Mar-2024,Inactive,False,46
+CUST-279,Roy Porter,jonathan77@example.com,(773) 993 - 0561,West,IL,B2C,05/14/2022,Active,1,73
+CUST-013,Anthony Rodriguez,laurahenderson@example.org,303-105 - 1834,West,FL,B2C,08/10/2024,Inactive,0,26
+CUST-183,Ashley Singleton,mitchellkathryn@example.com,4782827422,East,MA,B2C,2023-07-27,Active,1,75
+CUST-369,Ryan Wiley,aaron64@example.org,802-592 - 2220,West,IL,B2C,2025-01-06,Inactive,False,67
+CUST-637,Alison Wright,,,East,,,03/06/2025,Active,1,61
+CUST-656,Steven Huang,udavis@example.net,+14694500534,South,IL,Guest,06-Dec-2021,Active,True,46
+CUST-224,Holly Morales,michaelroberts@example.com,372-513 - 5521,East,GA,B2B,10-Jul-2023,Active,1,31
+CUST-741,Nathan Watkins,,,West,,,2020-09-17,Active,YES,46
+CUST-744,Sheila Herrera,sandyjohnson@example.org,3225957244,West,TX,Guest,23-Apr-2024,Active,YES,19
+CUST-721,Carol Lane,brian41@example.org,+12663436294,Central,MI,B2C,02/26/2024,Active,YES,51
+C582,Karen Perez,ramosmichael@example.com,8360041257,West,GA,B2B,2023-01-17,Active,YES,21
+CUST-487,Megan Hoffman,juliahoffman@example.org,857-724 - 2954,South,TX,B2C,13-Apr-2021,Active,YES,35
+CUST-543,Michael Martin,,,Central,,,13-May-2022,Active,YES,23
+CUST-466,Ronald Mcclain,smithsarah@example.net,5477848588,North,CO,B2B,2023-09-07,Active,True,56
+CUST-622,Tanya Walters,,,East,,,2025-12-18,Churned,False,70
+CUST-496,Lisa Wells,wilsonmichael@example.org,5203207427,West,TX,Guest,04/08/2022,Churned,0,69
+CUST-821,Melissa Randall,,,Central,,,07/08/2025,Inactive,False,58
+CUST-668,Anthony Duncan,webbhaley@example.net,5135030587,South,TN,B2B,30-Apr-2026,Churned,NO,60
+CUST-457,Anthony Li,phelpsmichael@example.net,+12119393250,North,NY,B2C,05-Dec-2022,Churned,NO,19
+CUST-394,Shannon Yu,janet69@example.org,749-465 - 1909,Central,OH,B2C,05/09/2021,Churned,False,71
+CUST-676,Megan Peters,clarkgina@example.com,399-097 - 0051,East,CA,Guest,2022-12-16,Inactive,NO,58
+CUST-714,Taylor Berry,,4135800401,North,IL,B2B,05/25/2024,Active,True,29
+CUST-376,Michael Mckenzie,lewismelissa@example.org,9729343010,West,WA,B2C,06-Mar-2021,Inactive,False,59
+CUST-413,Karen Miller,shawrachel@example.net,8618306719,Central,TN,Guest,2025-04-13,Active,True,53
+CUST-075,Raymond Jefferson,hoganashlee@example.org,+18120047113,Central,NY,B2C,23-Jun-2022,Active,1,54
+CUST-935,Norman Chavez,lindazhang@example.net,6494116318,West,FL,B2B,2024-03-24,Churned,0,62
+CUST-501,Michele Cherry,elucas@example.net,810-326 - 6421,East,GA,B2C,02/27/2022,Inactive,NO,62
+CUST-597,Alexa Williams,jbarker@example.com,7273230085,West,OH,Guest,10/11/2023,Churned,NO,55
+CUST-115,Olivia Brennan,williamsonjimmy@example.net,2927557192,Central,PA,B2C,28-Sep-2025,Active,1,48
+CUST-418,Sheryl Humphrey,patrick79@example.net,241-792 - 9111,West,MI,B2C,04-Nov-2022,Active,YES,57
+CUST-090,Bailey Duran DDS,kimberlyjames@example.com,(822) 683 - 8851,West,MA,B2C,2021-02-18,Active,YES,20
+C977,Thomas Patel,adam35@example.org,7904599080,South,GA,B2B,04/27/2022,Active,1,31
+CUST-920,Nicole Villegas,colonbobby@example.org,915-116 - 9666,West,NY,B2C,04/19/2024,Active,YES,70
+CUST-847,Helen Hernandez,juliecannon@example.com,+17158886367,West,IL,B2C,2020-12-02,Active,True,32
+CUST-732,Zachary Scott,gregory17@example.org,(625) 488 - 2142,South,OH,B2C,09/01/2023,Active,1,73
+CUST-012,Nicole Patterson,icox@example.net,5465787133,North,PA,B2B,03/09/2025,Active,YES,46
+CUST-397,Elizabeth Thompson,rushstacy@example.com,(227) 621 - 2679,West,MI,B2B,08-Jan-2023,Active,1,73
+CUST-569,Amy Cervantes,gcombs@example.com,(511) 150 - 8353,East,IL,B2C,2021-04-02,Inactive,NO,61
+CUST-043,Christine Wright,gomezanita@example.com,(851) 850 - 6716,East,WA,Guest,2020-09-30,Active,1,28
+CUST-168,Jacob Mitchell,gilbertwilliam@example.com,+14126788861,North,TX,B2C,04/03/2024,Active,True,32
+CUST-417,Ashley Hernandez,buckleyanna@example.org,4931027079,North,FL,B2C,08-Nov-2024,Active,1,25
+CUST-804,Anthony Ward,brandon48@example.net,+17959224839,East,NC,B2C,24-Jul-2021,Active,YES,39
+CUST-427,Hailey Monroe,kaitlyn14@example.org,926-527 - 3543,East,NY,B2B,27-May-2025,Active,True,52
+CUST-936,Sarah Hall,justin92@example.net,3130621136,Central,PA,B2C,2025-10-01,Active,True,40
+CUST-169,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,,,West,NY,,2025-05-07,Active,1,51
+CUST-729,Michelle Wilson,nicholasgallagher@example.net,4455696443,North,MI,B2C,05-Jul-2025,Active,True,46
+CUST-653,James Torres,,,Central,,,09-Jan-2022,Churned,False,24
+CUST-258,Robert Cummings,ascott@example.net,+19012045561,North,MA,B2C,2025-03-01,Active,YES,60
+CUST-336,Charles Chen,ebrooks@example.net,7857306524,North,GA,B2C,02/28/2026,Active,1,30
+CUST-016,Pamela Romero,harrellkenneth@example.net,3080132677,South,MA,B2C,26-Aug-2022,Active,True,22
+CUST-685,Megan Nelson,joshuasmith@example.net,(797) 371 - 4708,South,GA,B2B,2023-02-15,Active,True,60
+CUST-325,Jerry Brown,stephanie72@example.org,+19848728299,West,WA,B2C,2022-01-01,Churned,False,67
+CUST-682,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,smithsarah@example.net,4758955168,West,IL,Guest,02-Mar-2026,Churned,0,999
+CUST-223,Stephen Pena MD,booneryan@example.com,+14644220969,North,NY,B2C,10/21/2022,Churned,NO,55
+CUST-180,Tracy Bishop,pyoung@example.com,860-334 - 1918,South,PA,B2C,2026-03-01,Active,1,70
+CUST-100,Gary Santiago,marksteele@example.com,(623) 573 - 3221,East,MA,B2C,2024-05-29,Active,1,29
+CUST-522,John Brown,,,West,,,10/02/2020,Inactive,0,22
+CUST-023,Austin Johnson,chad34@example.net,2164005242,West,NC,B2C,2025-10-11,Active,1,33
+CUST-357,Pamela Santos,collinssamuel@example.org,+13238780038,East,PA,B2C,2023-09-25,Inactive,False,57
+CUST-751,Alexis Tucker,smithsara@example.net,(611) 730 - 9850,South,MA,Guest,08/11/2023,Churned,False,53
+CUST-915,Angelica Webb,jamesobrien@example.org,589-218 - 7851,Central,FL,B2C,2022-10-24,Inactive,NO,62
+CUST-849,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,daniellee@example.org,399-605 - 9329,West,WA,B2B,11/27/2025,Active,YES,74
+CUST-341,Julia Martinez,scottsmith@example.com,+13037170586,East,CO,B2C,09/26/2025,Inactive,NO,19
+CUST-432,Sara Hoffman,kenneth17@example.org,2772625701,West,TN,B2C,16-Jan-2026,Active,1,72
+CUST-588,Jesse Chavez,blopez@example.org,3495013649,West,TX,B2C,11/15/2022,Inactive,0,30
+CUST-886,Lauren Bonilla,robertjones@example.com,451-207 - 3465,East,MI,B2C,19-Jan-2026,Inactive,NO,59
+CUST-204,Danielle Wilson,victorhughes@example.net,(200) 307 - 5622,North,NC,B2C,01/31/2023,Inactive,False,52
+CUST-781,Oscar Smith,bryanwiggins@example.org,+17220368499,East,TX,B2C,2023-05-12,Active,YES,33
+CUST-094,Rachel Weber,ronaldstephens@example.net,979-979 - 9552,West,TX,B2C,25-May-2022,Active,YES,50
+CUST-595,Dawn Little,michaelwilliams@example.net,915-662 - 7768,Central,AZ,B2C,2025-01-31,Active,1,55
+CUST-069,James Lewis,matthew64@example.com,(794) 647 - 4367,North,FL,B2C,2021-12-15,Active,True,65
+CUST-663,Joshua Harvey,,,East,,,06/19/2020,Active,1,73
+CUST-285,Brent Hernandez,christineking@example.com,3435368222,South,MI,B2C,07-Dec-2021,Active,YES,67
+C853,Ann Hahn,joelduncan@example.net,2460568761,North,NY,B2C,2026-02-14,Inactive,0,24
+CUST-435,Norman Aguilar,matthewreeves@example.net,555-486 - 4015,East,GA,B2C,21-Dec-2023,Active,True,37
+CUST-154,Christopher Collins,kimberly99@example.org,3830469901,South,CO,B2C,2023-12-25,Inactive,NO,19
+CUST-076,Mary Jones,alexander67@example.org,4617964053,West,GA,Guest,13-May-2023,Churned,NO,73
+CUST-778,Barbara Mckinney,shannon51@example.org,615-599 - 9101,East,GA,Guest,03-Sep-2024,Active,YES,36
+CUST-447,Linda Morgan,matthewvalenzuela@example.com,+18106462879,South,FL,B2B,04/15/2024,Active,YES,22
+C189,Brian Stein,chenbailey@example.net,+18729466711,West,NC,B2C,09/16/2025,Inactive,False,51
+CUST-272,Jerry Watson,brettbennett@example.net,8846081062,North,WA,B2B,29-Nov-2025,Active,True,52
+CUST-237,Taylor Griffith,david86@example.com,+16713247546,Central,WA,B2B,2023-05-18,Active,True,29
+CUST-488,Rebecca Roberts,housepaul@example.net,5008931734,South,CA,B2C,03-Oct-2024,Active,1,37
+CUST-560,Sierra Andrews,,(708) 124 - 7395,North,CA,B2B,08/06/2024,Active,True,28
+CUST-118,Catherine Thompson,pharvey@example.com,458-313 - 2370,East,NC,B2C,23-Mar-2025,Active,YES,50
+CUST-868,Shawn Duffy,,436-229 - 2587,Central,CO,B2C,2023-07-16,Inactive,0,61
+CUST-513,Mr. Matthew Steele,arianadiaz@example.com,+18024375738,South,MI,Guest,2023-02-11,Active,True,74
+CUST-590,Johnny Peterson,,,West,,,06-Mar-2021,Active,1,51
+CUST-631,Samantha Smith,torresthomas@example.com,7948491025,West,NY,B2C,08/31/2021,Inactive,False,32
+CUST-127,Elizabeth Harrell,mcdonaldcharles@example.org,2162456506,North,MI,B2C,2024-07-05,Active,True,65
+CUST-117,Anthony Howard,hthomas@example.com,3217271551,Central,NC,B2C,10/19/2020,Active,YES,70
+CUST-474,Amber Martin,lydianewton@example.com,391-954 - 1987,West,FL,B2C,04-Aug-2023,Active,1,67
+CUST-738,Jennifer Chen,,,Central,,,2023-03-31,Active,YES,28
+CUST-058,Janet Ross,dianasmith@example.org,8807154516,Central,MA,Guest,2022-01-24,Inactive,False,47
+CUST-719,Christopher Rose,cooperchristopher@example.org,+14491271130,West,NY,B2C,2026-05-16,Active,YES,68
+CUST-967,Kimberly Cobb,ryanpatricia@example.net,+15797662705,North,TX,Guest,07/27/2024,Inactive,False,21
+CUST-370,Cynthia Vasquez,kaufmandouglas@example.com,4123094077,West,NC,B2C,2022-02-26,Active,YES,49
+CUST-269,Teresa Powers,heather62@example.com,(897) 829 - 2216,Central,MI,Guest,22-Oct-2020,Active,True,66
+CUST-047,Robert Perez,kellerraymond@example.com,3436349578,Central,PA,B2C,05/21/2023,Inactive,NO,22
+CUST-350,Danielle Burke,kimberly04@example.org,3364622517,Central,AZ,B2B,2022-10-07,Active,1,50
+CUST-196,Matthew Mitchell,glennmartin@example.org,321-965 - 6523,East,WA,B2B,07/26/2022,Active,True,43
+CUST-103,Isaiah Avila,nwolf@example.com,5924075818,North,IL,B2B,11/14/2020,Active,YES,67
+C887,Gary Mitchell,longbrittany@example.org,+19026086982,South,TX,B2B,03/03/2026,Churned,False,55
+CUST-790,Brenda Pierce,angel93@example.com,(827) 796 - 3044,Central,FL,Guest,2024-06-26,Inactive,0,29
+CUST-784,Amber Gomez,nhuber@example.org,3176741241,East,CO,B2B,2022-11-11,Inactive,0,53
+CUST-264,Molly Rodriguez,bmendez@example.org,5177971775,North,GA,B2C,2022-01-05,Active,1,31
+CUST-444,John Smith,jessicadodson@example.com,543-018 - 7186,South,GA,B2C,04-Nov-2023,Active,YES,39
+CUST-946,Rachael Alvarez,kathleenwagner@example.com,5358268627,North,AZ,B2B,04/04/2024,Active,1,58
+CUST-305,Robert Long,frederickjames@example.net,(801) 279 - 6114,South,PA,B2B,03/08/2023,Active,1,60
+C342,Susan Khan MD,clarence54@example.org,+12141381138,West,FL,B2B,17-Feb-2022,Inactive,0,39
+CUST-639,Courtney Peterson,fsandoval@example.net,(726) 501 - 6731,Central,NC,Guest,02/17/2025,Active,1,26
+C314,Monica Bailey,stanley38@example.com,+15920867808,East,OH,Guest,2021-05-25,Inactive,0,29
+CUST-150,Courtney Rodriguez,danny49@example.org,(230) 673 - 8302,Central,IL,B2B,2021-09-22,Churned,0,47
+CUST-125,Jeremiah Riley,christopherphillips@example.net,(896) 325 - 9532,West,NC,B2C,2020-09-29,Churned,False,72
+CUST-834,Lisa Gomez,luke09@example.org,2464197857,East,MA,B2C,2025-06-09,Active,True,74
+C873,Lindsay Carney,jessica36@example.org,+19215622949,South,NC,B2B,01/30/2024,Active,YES,32
+CUST-051,Kimberly Ball,michaeljones@example.net,(919) 022 - 9413,North,NC,B2C,2024-10-31,Active,YES,72
+CUST-354,Alexis Lewis,fryraymond@example.com,(440) 514 - 7705,South,AZ,B2C,07/20/2020,Active,YES,31
+CUST-985,James Pope,morgansharon@example.org,+12403253765,West,OH,B2C,09/19/2025,Active,1,61
+CUST-143,Theodore Jones Jr.,cameronhill@example.net,+13459332727,Central,PA,B2C,30-Apr-2021,Active,1,47
+CUST-471,Kristina Pena,xclements@example.org,+17208507698,West,IL,B2B,01/01/2023,Active,True,25
+CUST-400,David Jones,kristin00@example.com,389-490 - 5807,West,NC,Guest,2020-07-04,Active,True,26
+CUST-666,Edwin Richardson,wwilkins@example.com,3964215226,East,PA,B2C,09/18/2020,Active,YES,44
+CUST-321,James Wilson,megan92@example.net,769-961 - 1253,East,PA,B2C,27-Jun-2025,Inactive,NO,19
+CUST-020,Shane Henderson,sarahcampos@example.net,+16624751079,Central,TX,B2B,10/25/2021,Active,True,62
+CUST-859,Amy Lowery,johnnycruz@example.net,3534332491,South,PA,B2C,01/16/2026,Active,1,73
+CUST-838,Matthew Henderson,,,North,,,09-Mar-2023,Active,YES,72
+CUST-877,Kaitlin Gomez,smithwilliam@example.com,(993) 164 - 7725,North,NY,B2C,30-Mar-2023,Active,True,41
+CUST-408,Christina Johnson,daniellerowland@example.com,5443009109,South,MI,B2C,2025-09-23,Inactive,0,55
+CUST-538,Shawn Ortiz,adammanning@example.org,578-861 - 4057,Central,OH,B2B,14-Feb-2021,Active,True,55
+CUST-661,Dawn Ellis,,,East,,,06/09/2020,Active,1,68
+CUST-039,Grant Watts,william40@example.org,(827) 204 - 6537,East,PA,B2C,07/22/2025,Active,True,48
+CUST-176,Sandra Rodgers,lucasrodney@example.com,8101438889,Central,FL,B2C,2021-07-01,Active,True,999
+CUST-246,William Daniels,ismall@example.net,7842824172,East,AZ,B2C,05-Apr-2023,Inactive,NO,59
+CUST-880,William Porter,,,East,,,05/28/2021,Active,YES,34
+CUST-712,Kelly Bishop,thomasharmon@example.net,(217) 164 - 4556,North,NC,B2C,2024-05-13,Active,YES,36
+CUST-802,Lauren Cunningham,courtney71@example.com,(816) 202 - 8123,West,MA,Guest,07/03/2025,Active,1,44
+CUST-912,Hannah Terry,martinjessica@example.com,+13537038240,West,FL,B2C,15-Sep-2025,Churned,False,28
+CUST-155,Paul Williams,nelsonebony@example.com,554-033 - 1739,South,OH,Guest,2020-11-09,Active,True,44
+CUST-288,Adam Jackson,pbruce@example.com,+14053364525,West,GA,B2C,2024-06-16,Inactive,False,66
+CUST-626,Bianca Taylor,tonypearson@example.org,9585988310,South,CA,B2B,02/08/2024,Active,1,60
+CUST-889,Wayne Douglas,unguyen@example.net,791-779 - 3238,South,CO,Guest,2026-01-03,Active,YES,46
+CUST-570,Isaac Grant,maurice61@example.com,+14840445669,North,GA,B2C,04/04/2023,Churned,False,51
+CUST-791,Anthony Davidson,kimberlywang@example.org,(745) 667 - 6640,East,GA,B2C,14-Jun-2023,Active,True,58
+CUST-018,Sandra Parker,allenashley@example.org,+12978820812,North,MI,B2B,07/01/2023,Churned,NO,67
+CUST-128,Veronica Coffey,christopher60@example.com,+18878499121,West,PA,B2C,03/01/2026,Active,1,50
+CUST-323,Kayla Barnes,baileyhenderson@example.com,(461) 117 - 8006,Central,CO,Guest,08/02/2023,Active,1,69
+C256,Brittany Murphy,nwilson@example.net,5483564208,West,TN,B2B,02/17/2022,Churned,NO,60
+CUST-701,Daniel Rich,ashley46@example.net,375-361 - 7061,West,WA,B2B,04/29/2025,Inactive,False,21
+CUST-876,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,charles80@example.org,(787) 495 - 1191,Central,CO,B2B,02-Apr-2026,Active,YES,61
+CUST-191,Andrea Fox,myerstheodore@example.net,+17892975001,West,CA,B2B,2024-11-11,Churned,NO,20
+CUST-116,Nicole Hamilton MD,wallaceheather@example.org,227-868 - 1447,South,MI,B2C,11/08/2022,Churned,NO,67
+CUST-657,Rebecca Higgins,davisjasmin@example.net,(849) 837 - 3543,Central,WA,B2C,05-Dec-2025,Inactive,NO,27
+CUST-607,Marcus Garza Jr.,catherinejones@example.org,+12762091843,East,GA,B2C,01/03/2026,Inactive,NO,34
+CUST-181,Cheyenne Gregory,smurray@example.com,+19859696915,East,MA,B2C,26-May-2024,Active,1,32
+CUST-302,Adam Foster,vbrock@example.com,+12098180635,West,PA,B2B,04/27/2021,Active,YES,50
+CUST-807,Douglas Maxwell,kpeterson@example.org,669-459 - 6488,South,TX,B2C,2020-07-09,Active,1,30
+CUST-758,Olivia Williams,buckleygregory@example.org,(501) 027 - 2405,East,MI,B2C,08/28/2025,Active,True,41
+CUST-880,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,,,East,,,05/28/2021,Active,YES,46
+C782,Jennifer Cooper,todd88@example.com,+19732449134,South,TX,B2B,2024-10-30,Inactive,NO,66
+CUST-706,Shane Martinez,jonesalfred@example.net,9694591966,South,MI,B2C,2021-09-21,Churned,NO,31
+CUST-518,Kristen Stephens,jvaldez@example.com,447-871 - 2552,North,MA,B2B,2022-03-22,Churned,0,35
+CUST-373,Bianca Carter,sara65@example.com,699-982 - 7950,North,CO,B2C,02/10/2024,Active,1,47
+CUST-046,Michael Reyes,garrisonjeffrey@example.com,+16808313678,South,AZ,B2C,05-Sep-2022,Inactive,False,40
+CUST-964,Dr. Christine Wagner PhD,cynthia74@example.org,+16758339205,West,GA,Guest,2025-02-21,Active,True,26
+CUST-158,Daniel Taylor,keith10@example.com,5785477725,South,NY,B2C,24-Feb-2022,Active,True,68
+CUST-941,Kari Ellis,bensonstanley@example.org,(307) 964 - 9673,West,MI,B2C,21-Aug-2021,Churned,False,62
+CUST-172,Jake Campbell,rschroeder@example.net,793-752 - 6547,Central,CO,B2B,2025-08-06,Active,1,32
+CUST-017,Brittany Farmer,georgetracy@example.org,8474687234,South,CA,B2C,09/23/2024,Active,1,36
+CUST-512,Heather Lambert,craigharvey@example.org,2806958146,West,TX,B2C,07/21/2024,Churned,NO,37
+CUST-049,Wesley White,benjamin96@example.com,+15435240824,North,CA,B2C,08/23/2020,Inactive,False,20
+CUST-192,Mrs. Alexis Kramer,john19@example.net,2632424154,North,PA,B2C,2023-09-13,Active,1,32
+CUST-893,Lindsey Howard,,6855245787,North,WA,Guest,01/18/2023,Inactive,0,39
+CUST-516,Angela Ramirez,patriciagonzalez@example.net,(761) 931 - 8374,East,CO,B2C,11/27/2021,Active,YES,60
+CUST-947,Brittany Luna,marshelizabeth@example.com,469-326 - 5732,West,PA,B2C,2024-03-27,Inactive,NO,54
+CUST-731,Zachary Hammond,jonathan14@example.org,+16140703491,North,GA,B2C,2025-11-04,Active,True,62
+CUST-481,Nicole Evans,jennifer83@example.org,+18363212347,West,IL,Guest,2025-07-14,Active,YES,31
+CUST-284,Denise Madden,shawheidi@example.com,5268424508,Central,NY,B2B,07/20/2020,Active,YES,22
+CUST-938,Sandra Miller,colemandavid@example.org,4481323570,West,TX,B2C,2021-08-28,Active,YES,66
+C698,Samantha Thompson,gjones@example.net,396-482 - 5311,North,OH,B2B,06-Mar-2023,Inactive,NO,68
+CUST-226,Holly Thomas,cporter@example.org,5271040541,North,PA,B2B,18-Apr-2023,Active,True,60
+CUST-027,Brenda White,ewright@example.com,565-414 - 5868,East,CA,B2B,01/10/2022,Churned,NO,44
+CUST-830,Tiffany Johnson,hbeard@example.com,+18546968157,Central,CA,B2B,01/03/2025,Active,1,42
+CUST-438,Daniel Savage,vfrench@example.com,(510) 385 - 6955,West,MI,B2C,2021-03-03,Active,1,62
+CUST-488,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,housepaul@example.net,5008931734,South,CA,B2C,03-Oct-2024,Active,1,31
+CUST-365,Blake Watson,whitelinda@example.org,2817703886,North,NC,B2C,18-Feb-2023,Inactive,NO,65
+CUST-230,Molly Watts,carlsonjoseph@example.net,+18256527047,West,IL,B2B,01/10/2023,Active,YES,25
+CUST-038,Brandy Wilson,newtoneric@example.com,870-656 - 2729,Central,CA,Guest,2021-04-16,Active,1,75
+CUST-670,Kathleen Morton,jeanettekrause@example.org,(850) 191 - 7920,South,PA,B2B,30-Oct-2024,Active,1,61
+CUST-591,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,,,East,,,2026-05-04,Active,YES,51
+CUST-375,Joshua Oconnell,shannonford@example.org,(379) 469 - 5489,Central,PA,Guest,01/30/2023,Active,1,38
+CUST-470,Justin Smith,connersylvia@example.net,8556503334,Central,TX,Guest,11/04/2023,Active,YES,41
+CUST-0026,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,lauren13@example.org,+15421607337,East,IL,B2C,2026-02-20,Churned,0,75
+CUST-688,James Miller,,,West,,,02/26/2026,Inactive,NO,49
+C904,Melissa Foster,christopher20@example.org,6178996986,North,MI,B2B,14-Apr-2026,Inactive,NO,58
+CUST-983,Robert Brown,rjones@example.org,+15546147079,Central,CO,B2C,2021-06-30,Active,True,37
+CUST-913,Jordan Matthews,sandra72@example.com,932-043 - 0977,West,NC,B2C,05/03/2023,Active,True,60
+CUST-195,Emily Collins,ihays@example.com,4189092753,South,TN,B2C,02/08/2022,Inactive,False,33
+CUST-908,Christina Hudson,awilliams@example.org,+18527155983,East,MA,B2C,26-Mar-2024,Churned,0,48
+CUST-918,Justin Tucker,,,Central,WA,,08/30/2025,Churned,NO,71
+CUST-504,James Wilson,maychristine@example.net,+18174224386,East,MI,B2B,2024-02-04,Active,True,53
+CUST-485,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,karen24@example.net,8124815698,East,GA,B2C,2020-08-16,Inactive,NO,55
+CUST-883,John Martin,fgraham@example.org,774-817 - 0066,West,MA,B2B,05/14/2022,Active,YES,44
+C580,Seth Donovan,staylor@example.net,(232) 484 - 1376,Central,TX,Guest,2024-06-17,Active,True,53
+CUST-161,Vincent Jackson,xcollier@example.org,3182339845,East,CO,B2C,05/22/2021,Active,YES,71
+CUST-681,Gerald Webb,kimberly21@example.net,+13274747219,West,CA,B2C,08/30/2024,Active,1,30
+CUST-163,Christopher Dixon,schmidtjames@example.com,(859) 180 - 3397,East,CA,Guest,2022-04-18,Inactive,0,44
+CUST-747,Ashley Crawford,bryanharris@example.com,2941017590,South,PA,B2B,12/14/2020,Active,1,59
+CUST-153,Charles Schultz,davisalyssa@example.com,470-866 - 8826,South,IL,B2B,2026-01-01,Active,True,39
+CUST-894,Karen Hart,bdavis@example.com,+17608213711,Central,AZ,B2C,03/13/2024,Churned,False,33
+CUST-827,David Dunlap Jr.,,,West,,,17-Jul-2022,Active,YES,54
+CUST-803,Alicia Green,thomassteven@example.net,4872866041,West,IL,B2C,2024-10-08,Churned,0,54
+CUST-112,Andrew Shaw MD,sawyerscott@example.net,+19758416169,South,NC,B2C,09/14/2021,Active,True,39
+CUST-227,Regina Stone,catherinerobertson@example.com,(359) 970 - 6296,South,CA,B2B,29-Jul-2021,Active,True,53
+CUST-733,Matthew Rodriguez,probinson@example.org,953-666 - 1449,East,NY,B2C,08/08/2025,Inactive,False,35
+CUST-104,Dwayne Gilmore,omartinez@example.net,4613750606,Central,PA,B2B,30-Jan-2025,Churned,NO,18
+CUST-422,Jason Brewer,scottmcintyre@example.com,292-791 - 4560,Central,FL,B2B,02/20/2023,Churned,False,71
+CUST-420,John Adams,andrew44@example.com,458-273 - 9021,Central,OH,B2C,2022-06-07,Active,YES,20
+CUST-998,Dennis Garcia,nicholascobb@example.org,314-716 - 5609,East,PA,B2C,04-Aug-2020,Active,1,20
+CUST-587,Dominique Paul,robert12@example.org,861-331 - 5520,West,WA,B2C,24-Apr-2026,Active,True,42
+CUST-828,Michael Hernandez,wolfdonna@example.net,444-123 - 3613,South,WA,B2C,12/07/2021,Inactive,False,40
+CUST-673,Jonathon Nguyen,wilsonmathew@example.com,+15624186236,Central,CA,B2B,26-Dec-2020,Active,1,60
+CUST-120,Jeremy Reed,danielle64@example.com,+14268018242,South,PA,Guest,01/22/2025,Active,True,31
+CUST-054,Joshua Smith,jason99@example.net,+19134936183,South,TN,B2C,02-Apr-2025,Active,YES,42
+C152,Donald Farmer,michael22@example.net,9056856624,West,NY,B2C,07-Sep-2022,Active,YES,36
+CUST-404,Stephanie Davis,bbush@example.net,476-637 - 2395,North,WA,B2C,18-Jan-2021,Inactive,False,51
+CUST-272,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,brettbennett@example.net,8846081062,North,WA,B2B,29-Nov-2025,Active,True,75
+CUST-208,William Conner,kristyjohnson@example.net,(264) 138 - 3670,South,AZ,B2C,2024-09-26,Active,YES,44
+CUST-659,Mary Hernandez,haroldjoseph@example.com,604-226 - 9312,North,OH,B2B,06-Apr-2023,Churned,0,64
+CUST-897,Carl Leach,alexandraphillips@example.org,834-064 - 6867,West,PA,B2B,19-Dec-2022,Churned,NO,23
+CUST-810,Eric Garner,walkermelissa@example.org,967-548 - 1386,West,CO,B2C,27-Apr-2023,Active,True,64
+CUST-009,James Mayo,gabriellecameron@example.org,(651) 462 - 7048,South,NC,Guest,29-Jun-2022,Churned,NO,25
+CUST-929,Lisa Thomas,ngriffin@example.net,2803149982,East,AZ,B2B,2022-10-16,Active,True,55
+CUST-037,Joshua Turner,contrerasangela@example.net,2967054668,Central,CO,B2C,2021-10-02,Active,1,31
+CUST-453,Autumn Wilson,jimenezchelsea@example.com,+19652132833,Central,MI,B2C,2024-10-05,Churned,False,65
+CUST-652,Jennifer Moss,oblack@example.org,624-090 - 3678,Central,TX,B2B,02-Jul-2022,Inactive,False,44
+CUST-254,Susan Todd,kathleenbecker@example.net,(210) 016 - 7618,East,GA,B2C,12-Dec-2023,Active,YES,34
+CUST-304,Christopher Sanders,kelly79@example.org,+17621372138,West,CO,B2C,2022-02-13,Active,YES,48
+CUST-794,Gregory Parker,fsawyer@example.org,455-638 - 3000,Central,TX,B2C,2023-08-01,Inactive,0,18
+CUST-572,Patricia Griffin,jamesjustin@example.net,8377805292,East,AZ,B2B,19-Feb-2026,Inactive,NO,35
+CUST-624,Laura Davis,zroberts@example.org,(408) 751 - 0293,South,TX,B2C,03/14/2024,Churned,0,55
+C755,Joseph Davis,michelle88@example.org,+12107835674,South,CA,Guest,16-Jan-2022,Active,YES,25
+CUST-765,Kristen Hall,,,East,,,2021-11-08,Active,True,60
+CUST-263,Jessica Gray,johnreed@example.com,(487) 721 - 7535,East,CA,B2C,02/20/2026,Active,1,45
+CUST-611,Theresa Hansen,xreese@example.net,843-471 - 2871,East,MA,B2B,2022-07-11,Active,YES,18
+C298,Jennifer Johnson,angela99@example.com,4369292984,South,AZ,B2C,2025-02-23,Churned,0,71
+C415,William Graham,maryscott@example.net,+18157173203,North,AZ,Guest,09-Oct-2020,Active,1,66
+CUST-151,Vanessa Cardenas,lynchdiane@example.net,+17342836440,Central,MI,Guest,23-Jan-2024,Churned,0,20
+CUST-836,William Jenkins,stanleyjohn@example.net,(950) 954 - 6540,Central,IL,B2B,2021-03-28,Active,True,38
+CUST-641,Erin Daniels,denisecarpenter@example.net,4560531340,South,OH,B2C,01/25/2023,Active,YES,35
+CUST-944,Jennifer Zuniga,pamela32@example.net,9555628333,South,MI,B2B,2021-08-14,Churned,NO,65
+CUST-551,Jared Smith,richardrodriguez@example.org,+15173505831,Central,MI,B2C,2022-01-24,Active,1,24
+CUST-856,Brian Lewis,scott49@example.org,(795) 442 - 9477,East,NY,B2C,01/03/2024,Inactive,NO,26
+CUST-489,Amy Manning,christinenorman@example.com,+13529108677,North,FL,B2C,01/26/2023,Active,1,71
+CUST-711,John Vaughn,jessicafox@example.com,+18390409074,South,MA,Guest,19-Jul-2023,Active,YES,27
+CUST-148,Laurie Hoffman,elizabeth65@example.net,712-868 - 2300,East,GA,B2C,08-Jul-2021,Active,YES,999
+CUST-147,Andrea Decker,reynoldsjulie@example.com,(904) 622 - 6567,West,OH,B2B,04/02/2026,Churned,False,36
+CUST-966,Steven Chambers,speters@example.net,431-067 - 2453,North,GA,B2C,08/03/2025,Active,YES,47
+CUST-989,Kimberly Thomas,vparker@example.com,+12971231660,North,GA,B2C,2023-01-21,Active,True,22
+CUST-787,William Ferguson,knapprichard@example.com,+15183061789,South,AZ,B2B,08/01/2023,Active,YES,54
+CUST-660,Randy Griffin,davidanderson@example.org,4091660100,South,FL,B2C,01/12/2023,Active,YES,59
+CUST-349,Leah Cruz,iedwards@example.org,(804) 805 - 8925,Central,AZ,B2B,08-Aug-2021,Active,YES,69
+C464,Dennis Edwards,tiffanysantiago@example.com,+18579678427,North,TX,B2C,28-Feb-2024,Active,True,26
+CUST-326,Kathy Simpson,cperry@example.com,6578317456,East,NY,B2C,04-Sep-2023,Active,1,23
+CUST-187,Aaron Miller,jason28@example.net,(595) 962 - 9233,North,MI,B2C,05/26/2024,Active,True,34
+CUST-124,Megan Le,courtneyberger@example.net,+17625881537,North,IL,B2C,10-Jan-2022,Active,True,60
+CUST-907,Bruce Barrera,emaynard@example.org,+17534705742,South,NC,B2C,10-Jun-2024,Active,YES,20
+CUST-609,Amy Jensen,navarromary@example.org,(871) 649 - 3289,Central,CA,B2B,2023-07-20,Inactive,0,56
+CUST-144,Erika Vang,shawn96@example.org,5391878519,North,CA,B2C,22-May-2025,Churned,False,64
+CUST-752,Diane Steele,nschwartz@example.org,+17124189389,Central,IL,B2C,2025-12-14,Active,YES,50
+CUST-651,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,meyershannon@example.org,685-571 - 6176,Central,TN,Guest,2023-01-27,Inactive,NO,35
+CUST-198,Tim Stone PhD,mmiller@example.org,(255) 269 - 6582,West,CO,B2B,19-Apr-2026,Active,YES,45
+CUST-610,Anne Hardy,hlopez@example.net,+19271783332,North,TX,B2C,31-Mar-2022,Inactive,False,49
+CUST-280,Heather Taylor,iwhite@example.net,+19704358112,Central,NC,B2B,03-Nov-2021,Active,True,25
+CUST-294,Donald Riddle,jperez@example.com,+13846386557,West,TN,B2C,10-Mar-2023,Active,YES,39
+C884,Michael Washington,,,South,,,03/01/2024,Active,YES,25
+CUST-401,Tracy Wilkerson,wmacias@example.net,+17442094940,West,MI,B2B,2024-02-20,Active,1,71
+CUST-123,Stephanie Parsons,catherinegomez@example.net,+15647102767,West,FL,B2C,2024-08-20,Active,True,61
+C184,Brittany Kim,lisawilkerson@example.org,+19236887676,West,GA,B2B,03/25/2024,Active,True,55
+CUST-203,Tiffany Watson,berryalyssa@example.com,+13778507925,South,IL,B2C,18-Sep-2021,Churned,NO,35
+CUST-439,Julie Wilson,delacruzbrandy@example.net,6924243754,North,NY,B2C,2022-08-17,Active,YES,34
+C247,Robert Rivera,twong@example.org,713-534 - 6554,Central,IL,B2C,23-May-2024,Active,YES,33
+CUST-416,Justin Arnold,april09@example.net,6787005050,West,TX,B2B,12/24/2020,Inactive,0,999
+CUST-824,William Morgan,,,North,NY,Guest,05-Nov-2021,Active,YES,71
+CUST-931,Jean Higgins,abigailfernandez@example.org,713-739 - 9006,South,TN,B2C,09/21/2020,Churned,False,54
+CUST-961,Aaron Marshall,denise20@example.org,313-253 - 2694,Central,OH,B2C,17-Feb-2025,Active,1,70
+CUST-955,Tyrone White,evanscorey@example.org,(246) 376 - 6046,East,PA,B2C,06-Nov-2021,Churned,False,32
+CUST-942,Jaclyn Crane,xrodriguez@example.net,4785324264,South,PA,B2C,2021-09-29,Active,1,28
+CUST-130,Manuel Hahn,rose31@example.net,726-949 - 5888,West,AZ,B2C,2022-05-26,Active,YES,51
+CUST-638,Heather Turner,lisa46@example.org,(834) 807 - 9705,North,MI,B2C,12-May-2023,Active,YES,43
+CUST-403,Dean Garcia,george62@example.net,(492) 752 - 4372,Central,MA,B2B,02-Dec-2022,Churned,False,56
+CUST-217,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,eevans@example.net,583-806 - 5787,East,TN,B2C,2025-11-14,Active,YES,24
+CUST-818,Ashley Davenport,gcoleman@example.org,2448515791,Central,TN,B2C,02/24/2024,Active,True,35
+CUST-736,Teresa Henry,upowell@example.org,(261) 294 - 3985,South,MI,B2C,10-Jun-2020,Active,True,42
+CUST-968,Heather Hess,paul01@example.com,+15873670425,East,WA,B2C,03/13/2024,Active,True,60
+CUST-220,Brent Roberts,alin@example.org,+14937842701,North,FL,B2C,26-Mar-2024,Active,YES,60
+CUST-642,Ellen Thornton,russellstout@example.org,(574) 167 - 8725,West,NC,B2C,02/17/2022,Inactive,False,25
+CUST-970,Robert Garrett,jimsnyder@example.com,948-595 - 3259,South,AZ,B2C,2023-06-15,Active,YES,32
+CUST-800,Brittany Evans,qmartinez@example.com,469-789 - 3074,West,IL,B2C,08/21/2020,Inactive,NO,67
+CUST-855,Emily Collier,vshaffer@example.org,6547574949,North,CO,B2B,06/13/2021,Active,YES,75
+CUST-975,Justin Gibson,,,South,,,2025-08-21,Active,YES,64
+CUST-625,John Mcgee,zbaker@example.net,(384) 582 - 6034,North,NC,Guest,07/14/2021,Active,True,25
+CUST-891,James Thompson,ndavis@example.org,+17652906032,North,NY,B2C,07/14/2025,Inactive,False,31
+CUST-808,Daniel Lopez,butlersabrina@example.org,449-128 - 9659,Central,MI,B2C,2022-04-06,Inactive,NO,29
+CUST-387,Steven Osborne,stokesthomas@example.com,3662997954,East,MA,B2B,06/28/2025,Inactive,False,19
+CUST-890,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,marcus01@example.net,(364) 913 - 3424,East,AZ,Guest,02-Apr-2025,Inactive,0,55
+CUST-510,Ruben Lee,emilybradley@example.org,977-079 - 3349,West,CA,B2C,22-Dec-2021,Active,True,66
+CUST-268,Antonio Fry,conniesimmons@example.com,9351609177,Central,NC,B2B,12/05/2023,Active,1,24
+CUST-869,Crystal Davis,sgonzalez@example.org,945-245 - 5574,West,MI,B2C,2025-11-30,Active,1,53
+CUST-442,Mr. Christopher Walters,hayesjason@example.org,720-885 - 4749,South,CO,B2C,2021-02-05,Churned,False,27
+CUST-497,Lisa Haley,patrick16@example.com,(787) 771 - 2151,South,MA,B2C,2025-11-15,Inactive,False,63
+CUST-113,Charles Pitts,charlesharrington@example.com,+16479627570,East,MI,Guest,18-Apr-2024,Active,True,18
+CUST-692,Michael Ortega,shawn01@example.com,+14765289286,West,IL,B2C,07/03/2023,Inactive,NO,34
+CUST-233,Damon Shaw,vsalas@example.net,532-061 - 6329,East,PA,Guest,09/12/2021,Churned,NO,42
+CUST-923,Adriana Davenport,gpeterson@example.org,(712) 397 - 2835,North,MA,B2C,12-Dec-2023,Active,True,44
+CUST-608,Steve Miller PhD,wardjulia@example.com,8305050573,Central,GA,B2C,27-Dec-2025,Active,True,59
+CUST-672,Justin Walsh,davidsonhannah@example.com,(209) 282 - 0667,Central,AZ,B2C,10/18/2020,Churned,0,46
+CUST-374,Benjamin Harris,moorefrank@example.com,8814721458,West,NC,B2B,04/05/2024,Active,YES,42
+CUST-664,Scott Estrada,mark10@example.org,+12922685926,South,TN,B2C,05/19/2023,Active,1,41
+CUST-896,Kelly Roberts,zmiller@example.com,285-838 - 2521,South,WA,B2C,23-Nov-2024,Active,True,25
+CUST-234,Kelly Hoffman,ufox@example.org,(886) 854 - 8709,Central,NC,B2C,12/09/2020,Active,1,53
+CUST-833,Julie Hart,williammyers@example.com,(351) 602 - 5298,West,WA,B2C,2026-03-29,Active,True,30
+CUST-677,Diana Johnson,ksims@example.net,5565215681,Central,CO,B2C,21-Dec-2020,Active,YES,27
+CUST-318,Sonya Cole,tprice@example.org,774-489 - 0612,North,FL,B2C,28-Aug-2020,Active,1,52
+CUST-649,Norma Jones DVM,fcamacho@example.net,759-895 - 3439,West,TX,Guest,2026-02-13,Active,True,71
+CUST-411,Paul Contreras,barnettlindsey@example.com,827-128 - 6391,West,AZ,B2C,18-Mar-2025,Active,YES,49
+C953,Alexander Rice,hscott@example.org,(909) 962 - 5438,East,NC,Guest,2024-02-16,Active,True,70
+CUST-710,Timothy Johnston,goodashley@example.net,(865) 533 - 0770,East,OH,B2B,04-Sep-2024,Active,1,36
+CUST-359,Michael Miles,tylerreed@example.net,4168936392,West,IL,Guest,26-Nov-2021,Active,True,48
+CUST-259,Amber Cooper,weaverbrian@example.org,455-794 - 1552,North,OH,B2C,06-Apr-2022,Active,YES,34
+CUST-745,Kaitlin Hardin,sanchezdeborah@example.org,4988425995,Central,MI,B2C,2024-07-26,Active,YES,67
+CUST-628,Michael Henderson,james59@example.net,6628314359,Central,MI,B2B,04/23/2025,Inactive,False,26
+CUST-633,Jamie Escobar,scottbrian@example.org,872-757 - 8446,Central,AZ,Guest,09-May-2026,Inactive,NO,65
+CUST-283,Susan Hopkins,smithandrea@example.org,(215) 814 - 4914,West,OH,B2C,30-Jan-2026,Inactive,NO,33
+CUST-377,Tracy Foster,byrdjorge@example.org,860-558 - 3034,East,CO,B2B,09-Mar-2021,Active,YES,41
+CUST-385,Rebecca Wright,mayokimberly@example.com,+14410988138,East,NC,B2C,02/08/2022,Active,YES,54
+CUST-225,Joshua Bryan,andersoncolin@example.com,(610) 067 - 6267,West,PA,B2C,2024-09-12,Active,1,52
+CUST-543,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,,,Central,,,13-May-2022,Active,YES,24
+CUST-895,Mark Davis,teresa32@example.com,+18818268323,North,FL,B2C,2025-08-19,Active,True,57
+CUST-473,Peter Walker,michael48@example.net,656-371 - 8344,North,IL,Guest,04-Apr-2024,Active,YES,34
+CUST-348,Brittany Jenkins,fheath@example.org,(609) 610 - 5566,North,MA,B2C,22-Mar-2022,Inactive,False,24
+C506,Timothy James,wellsamanda@example.org,4601645977,Central,CO,B2C,02/22/2021,Churned,NO,37
+CUST-640,Megan Salas,robertberry@example.com,4437654562,Central,CO,B2C,08/30/2023,Churned,NO,31
+CUST-114,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,melissa86@example.com,(858) 202 - 9702,North,FL,B2C,04/16/2023,Active,YES,52
+CUST-798,Joel Bradley,jamescollier@example.com,+16883607658,North,GA,B2B,2023-12-08,Churned,False,67
+CUST-986,Leah Rodriguez,,,East,TN,B2B,2024-04-09,Active,True,45
+CUST-960,Walter Brooks,,,South,FL,,31-Aug-2024,Churned,False,30
+CUST-620,Anna May,crossbarbara@example.org,+18263013674,Central,NY,B2C,24-Apr-2025,Active,True,54
+CUST-909,Jessica Perry,mmclaughlin@example.net,(859) 726 - 3475,East,CO,B2C,09-Oct-2025,Active,YES,62
+CUST-852,Angela Guzman,lesterrichard@example.com,(268) 761 - 6481,Central,WA,Guest,17-Nov-2020,Inactive,0,22
+CUST-646,Crystal Hall,howardhailey@example.com,809-310 - 6684,South,FL,B2C,07/24/2025,Active,True,31
+CUST-900,Amber Butler,,,Central,,,12/17/2021,Active,1,68
+CUST-557,Cheryl Mclaughlin,jillsalas@example.org,588-065 - 3331,East,FL,B2C,03/22/2026,Inactive,NO,64
+CUST-454,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,benjamincrawford@example.org,(911) 207 - 5452,West,TN,Guest,2024-11-10,Active,True,28
+CUST-578,Angela Huynh,pparker@example.net,+12271693859,West,GA,B2C,08/23/2022,Active,YES,30
+CUST-796,Kevin Miller,kevinmcneil@example.net,(386) 008 - 9219,West,FL,B2C,12/07/2023,Churned,0,19
+CUST-086,Brian Lee,michaelturner@example.net,(602) 445 - 5022,Central,WA,B2C,27-Jun-2025,Active,1,49
+CUST-243,Randy Pearson,amandasharp@example.org,8910858994,East,WA,B2B,2025-11-26,Active,True,45
+CUST-699,Jamie Snyder,davislisa@example.net,396-027 - 5233,East,FL,B2C,06/25/2025,Active,YES,74
+CUST-928,Valerie Barnes,jennifer55@example.org,6666617071,East,NC,B2C,01/10/2026,Active,YES,50
+C160,Shannon Johnston,amckinney@example.com,9008860084,Central,IL,B2B,27-Apr-2024,Inactive,0,48
+CUST-525,William Walker,wgomez@example.com,+12174907539,Central,AZ,Guest,10/21/2024,Active,1,18
+CUST-036,Daniel Baker,nicole35@example.com,+13223623166,East,NC,B2C,05-Apr-2021,Active,1,63
+CUST-541,Dalton Arnold,jwhite@example.net,6653984028,Central,TX,B2C,2026-03-14,Active,YES,68
+CUST-171,Carrie Wright,hritter@example.net,324-065 - 9657,East,OH,B2C,2021-02-16,Churned,False,55
+CUST-655,Teresa Horton,phillipmorris@example.org,+16033810595,East,TX,Guest,12/09/2021,Churned,False,31
+CUST-945,Joshua Jones,butlerashley@example.net,+18543627187,East,TN,B2C,2024-07-26,Inactive,False,24
+CUST-911,Ethan Brown,hsmall@example.com,396-425 - 8562,West,TX,B2C,07/28/2020,Inactive,False,52
+C901,Thomas Patrick,jacobburgess@example.net,(921) 540 - 6417,West,MI,B2B,31-Aug-2022,Inactive,0,56
+CUST-335,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,dustinmorris@example.org,332-719 - 5005,South,AZ,B2C,2020-11-30,Active,YES,71
+CUST-734,Ashley Jones,kimberly07@example.org,+14342683441,East,MI,Guest,01-Mar-2024,Active,YES,71
+CUST-096,John Torres,gbender@example.net,(879) 807 - 9359,West,NC,B2B,12-Nov-2022,Active,1,49
+CUST-564,Chelsea Baker,thomas95@example.com,(628) 973 - 1791,South,NC,B2C,15-Aug-2025,Churned,False,61
+CUST-241,Ashlee Townsend,oconnelltiffany@example.org,(260) 293 - 3334,West,NC,B2B,2023-03-22,Inactive,False,18
+CUST-743,Richard Williams,lewisdesiree@example.net,+19052774025,Central,MA,Guest,04/19/2023,Active,1,26
+CUST-864,Austin Fisher,shawn00@example.net,(817) 399 - 7046,Central,IL,B2C,09-May-2026,Active,YES,52
+CUST-575,Teresa Adkins,lgutierrez@example.org,+14182097023,North,TN,Guest,03/12/2024,Active,YES,64
+CUST-691,Julie Hall,douglashuang@example.com,(704) 481 - 7766,East,PA,B2C,2025-11-22,Active,1,21
+CUST-461,Carol Anderson,jarvismegan@example.org,(916) 479 - 4738,West,IL,Guest,2025-12-05,Active,YES,63
+CUST-554,Mr. James Kramer,ericahall@example.com,8991507859,South,TX,B2B,2020-08-22,Active,1,19
+CUST-858,Mike Underwood,brewerrebecca@example.org,4529858567,South,MA,B2C,2021-08-23,Active,1,44
+CUST-974,Monica Hill,,,West,,,05/08/2022,Inactive,0,25
+CUST-207,Michelle Pierce,patricia22@example.com,797-383 - 2060,South,NC,B2C,2023-02-16,Inactive,NO,52
+CUST-393,Sarah Morris,hernandezjanet@example.org,9013290227,Central,IL,B2C,2021-12-02,Active,YES,65
+CUST-795,Jennifer Ramos,lindawaller@example.com,(640) 330 - 4166,South,MA,B2C,03/10/2024,Active,1,27
+CUST-871,Joseph Ayala,fwilcox@example.org,+15398741132,East,AZ,B2C,29-May-2021,Inactive,0,63
+CUST-398,Lance Mccall,daniellegarcia@example.com,7326909738,East,OH,Guest,2025-03-28,Active,YES,47
+CUST-767,Daniel Pennington,robinvillanueva@example.com,+15609149851,West,NY,B2C,2023-03-12,Inactive,0,69
+CUST-902,Ashley Ferguson,,,West,,,2022-08-13,Churned,0,52
+CUST-218,Jason Marshall,catherine55@example.net,+12593040785,Central,FL,Guest,12/02/2020,Active,1,67
+CUST-005,Renee Blair,dudleynicholas@example.net,+16192832764,Central,FL,B2C,05/03/2023,Inactive,0,999
+CUST-769,David Hansen,steelerichard@example.org,640-580 - 9351,North,NC,B2C,03/30/2021,Active,1,65
+CUST-643,Sylvia Stewart,whitemary@example.org,3102258030,East,OH,Guest,12/28/2025,Inactive,NO,54
+CUST-952,Lisa Morales,henrysarah@example.com,+17122946213,East,IL,B2C,02/16/2021,Churned,False,29
+CUST-613,Christopher Murillo,umahoney@example.net,395-256 - 9040,Central,NC,B2B,14-Sep-2024,Active,YES,43
+CUST-739,Paige Roberts,gregorywilliams@example.com,607-931 - 1029,North,NC,B2B,2021-02-03,Active,YES,48
+CUST-547,Dakota Sandoval,james98@example.net,599-921 - 9212,East,TN,B2C,12-Aug-2024,Active,True,59
+CUST-726,Leah Lee,erica25@example.net,+14211457758,East,WA,B2C,06/20/2022,Active,YES,37
+CUST-972,Donald Mason,andreakeller@example.net,+19634250733,North,PA,B2C,10/12/2023,Active,1,26
+CUST-684,Emily Mcclain,james44@example.net,3577871121,West,CO,B2C,07-Aug-2020,Active,True,72
+CUST-099,Donald Shea,fwalters@example.org,+18291486528,North,WA,B2C,2025-12-14,Active,YES,64
+CUST-805,Pamela White,georgegary@example.com,428-705 - 6227,North,CA,B2C,2021-01-23,Active,1,999
+CUST-728,Darlene Johnson,brownbrooke@example.org,+12396531361,East,TN,B2C,2022-04-11,Active,YES,32
+CUST-574,Greg Edwards,jennifer96@example.com,+18636186371,East,MI,Guest,06-Jan-2021,Active,True,68
+CUST-407,Katherine Brown,pattersonkelly@example.net,5938525800,North,CA,B2C,2025-04-10,Active,1,25
+CUST-503,Roberto Bartlett,ohughes@example.com,4661085732,West,NC,B2C,2025-02-26,Active,YES,37
+CUST-048,Diana May,ifrazier@example.com,+19444313518,South,FL,B2B,2020-12-31,Active,YES,21
+CUST-033,Steve Sanchez,harveyrobert@example.net,(893) 676 - 3201,West,FL,B2B,2023-11-05,Churned,0,64
+CUST-780,Shaun Meyer DDS,robert82@example.com,6134750988,Central,NC,B2C,09/01/2021,Active,YES,69
+CUST-840,Jonathan Cain,garrett45@example.com,+15059736424,Central,WA,B2B,25-Feb-2026,Active,YES,40
+CUST-201,Mark Cox,stephaniethomas@example.net,516-179 - 9042,North,CA,B2C,11/24/2020,Inactive,False,69
+CUST-135,Mrs. Stephanie Newman,sandersjames@example.org,+17844198665,South,IL,B2B,2021-04-03,Churned,NO,57
+CUST-028,Matthew Fernandez,novaksara@example.org,601-965 - 5698,North,OH,Guest,02-Feb-2025,Active,True,25
+CUST-934,Debbie Romero,williamsdebra@example.org,9231112712,Central,PA,B2B,12/02/2020,Inactive,NO,45
+CUST-231,Mikayla Silva,alexandriagriffith@example.com,(315) 869 - 3806,Central,OH,Guest,05/01/2025,Inactive,NO,72
+CUST-490,Michele Holland,kimberlybrandt@example.com,+19626393436,South,OH,B2C,2022-04-30,Active,YES,66
+CUST-773,Elizabeth Mullins,kristinmiller@example.com,(297) 887 - 5439,East,TN,B2B,30-Mar-2023,Active,YES,54
+CUST-379,Ronald Haas,jamesmorales@example.net,(472) 785 - 7608,East,MI,B2C,11-Jun-2021,Active,YES,75
+CUST-289,Valerie Jacobson,hallrachel@example.net,3291428341,North,TN,B2B,23-Mar-2025,Active,YES,35
+CUST-419,Donald Thomas,vwilliams@example.net,765-198 - 2530,Central,NY,B2C,2024-06-07,Active,1,69
+CUST-675,Christopher Murray,steven60@example.net,+15428113904,South,NC,B2B,11/25/2025,Churned,0,72
+C392,Alicia Woods,samantha32@example.com,(919) 975 - 8172,East,OH,B2B,22-May-2022,Active,1,44
+CUST-593,William Wright,gonzalezjill@example.org,7270171302,South,NY,B2B,12-Jul-2022,Active,True,26
+CUST-499,Matthew Flores,vaughangary@example.net,(791) 520 - 1777,East,MI,B2C,2020-10-13,Active,1,54
+CUST-139,Bonnie Howard,briannasmith@example.com,(924) 004 - 9915,East,GA,Guest,2026-01-12,Active,True,67
+CUST-063,Cynthia Rogers,taylorjesse@example.net,+18753396360,East,AZ,B2C,2021-01-25,Churned,False,73
+CUST-472,Evelyn Saunders,xmoran@example.net,(896) 591 - 7135,West,NC,B2C,2022-04-22,Inactive,0,24
+CUST-648,Darrell Ortiz,schaeferstephanie@example.org,+16749162475,East,IL,B2B,07/31/2021,Inactive,False,25
+CUST-129,Jacob Curry,brenda51@example.net,+15986800025,West,NC,B2C,12/22/2024,Active,True,35
+CUST-0014,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,frazierdanny@example.net,9631165667,North,WA,B2C,09/07/2023,Active,YES,74
+CUST-521,Krystal Brennan,jillwebb@example.com,260-290 - 8466,Central,MA,B2C,2021-12-07,Inactive,0,26
+CUST-839,Eugene Hudson,ashley71@example.net,(354) 660 - 2416,North,CO,B2B,2025-05-30,Active,1,39
+CUST-573,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,kwelch@example.com,+15666845909,North,TN,B2B,2021-08-23,Churned,0,53
+CUST-065,Lauren Dominguez,wwoods@example.com,4174596158,West,PA,B2C,22-Sep-2023,Churned,0,46
+CUST-813,Bryan King,turneralex@example.org,4037583094,East,TX,Guest,2025-06-15,Churned,0,66
+CUST-015,Gina Carter,shawnmckay@example.net,(713) 338 - 7262,East,GA,B2B,2022-09-05,Churned,NO,64
+CUST-157,Kelsey Parker,randallgreene@example.org,+18093204899,West,IL,B2B,2026-03-07,Active,True,58
+CUST-041,Jessica Smith,landryhannah@example.org,919-374 - 5299,North,CO,B2C,03/02/2024,Churned,0,20
+CUST-493,Linda Ayala,tracy98@example.com,(689) 646 - 5280,Central,NY,B2C,09/19/2021,Active,True,52
+CUST-380,Angela Willis,johnsoncaleb@example.net,(751) 240 - 5682,Central,MI,B2C,10/09/2025,Active,YES,20
+CUST-188,Ashley Roberts,david36@example.net,649-481 - 2604,South,AZ,Guest,2025-08-03,Active,1,18
+CUST-764,Colleen Phillips,kristinelittle@example.net,(860) 186 - 4876,Central,AZ,B2C,2021-11-12,Active,YES,73
+C217,Karen Ballard,eevans@example.net,583-806 - 5787,East,TN,B2C,2025-11-14,Active,True,37
+CUST-922,Annette Holland,lori13@example.com,(609) 080 - 5120,Central,CA,B2B,25-Aug-2024,Active,YES,68
+CUST-792,Samuel Rhodes,daughertypreston@example.com,(963) 928 - 3199,East,NY,B2C,2020-08-08,Active,1,49
+CUST-053,Cameron Fisher,lbyrd@example.net,323-281 - 2067,Central,GA,B2C,2026-05-05,Active,YES,34
+CUST-879,Sherry Anderson,jennifer62@example.com,+19395923234,South,TX,B2B,08-Aug-2024,Active,YES,20
+CUST-338,Sarah Davis,sreid@example.com,+12862095935,North,WA,Guest,2020-06-06,Inactive,NO,66
+CUST-749,Gabriela Martinez,katherinejackson@example.com,(330) 205 - 6981,East,NY,B2C,18-Oct-2020,Churned,False,42
+CUST-720,Brittany Crawford,ptownsend@example.net,6181563268,West,NC,B2C,2025-06-23,Active,YES,66
+CUST-725,Derek Garcia,rmurray@example.net,320-957 - 9073,West,TX,B2B,2022-09-23,Active,True,40
+CUST-296,Richard Moore,gstewart@example.org,3777392603,North,NY,B2C,2021-09-21,Active,True,50
+CUST-702,Lauren Carr DDS,melissabrown@example.net,9224029901,East,PA,B2C,2023-05-04,Active,True,65
+CUST-252,Stacy Carrillo,fowlershelia@example.com,(678) 985 - 6257,East,CO,B2B,2024-09-07,Churned,0,65
+CUST-727,Sandra Smith,foxgina@example.com,(658) 971 - 4802,West,MA,B2B,2020-07-01,Churned,False,59
+CUST-462,Karen Carroll,ywhite@example.com,(720) 716 - 7811,South,OH,B2C,2023-12-13,Active,YES,23
+CUST-456,Brandon Hunt,conwaydawn@example.com,(276) 031 - 0890,West,TX,Guest,08/12/2024,Active,1,19
+CUST-271,Tracy Grant,paulscott@example.com,+15339452288,East,AZ,B2B,25-Nov-2020,Active,YES,37
+CUST-816,Michelle Brandt,rachelmedina@example.net,(251) 843 - 9055,South,TN,Guest,2020-07-12,Inactive,NO,62
+CUST-863,Tammy Cook,gmcdowell@example.org,(337) 171 - 7318,Central,FL,B2C,2024-06-01,Active,1,44
+CUST-270,Joshua Allen,kevinzimmerman@example.com,5465472269,Central,IL,B2C,2023-08-12,Active,YES,36
+CUST-202,Amanda Jones,michael90@example.net,788-425 - 2410,East,CO,B2C,2026-03-06,Active,YES,69
+CUST-162,Dana Chapman,fosterkyle@example.com,5341016668,West,CA,B2C,2024-02-15,Inactive,0,74
+CUST-556,Timothy Woods,jeffery94@example.org,885-498 - 2274,Central,PA,B2C,2023-04-27,Churned,False,31
+C730,Cathy Rodriguez,jonowens@example.org,(995) 410 - 7272,Central,IL,B2C,2025-03-23,Inactive,False,30
+CUST-402,John Shields,franciscojones@example.org,+12471281442,Central,IL,B2C,09-Aug-2023,Active,1,24
+CUST-703,Justin Irwin,callahanmichelle@example.org,(613) 908 - 0882,South,MA,B2C,11/11/2020,Churned,NO,47
+CUST-477,Brandy Porter,tranryan@example.net,666-513 - 6442,East,WA,B2C,06/03/2025,Active,1,74
+CUST-822,Stephanie Lang,harry71@example.com,828-936 - 5435,Central,NC,B2C,01/06/2022,Inactive,False,43
+CUST-772,Seth Sims,daltonchad@example.net,+18902611398,Central,WA,B2C,11/10/2023,Active,True,22
+CUST-106,Brittany Cantu,william46@example.com,(528) 986 - 1434,North,CA,B2B,2021-05-29,Active,YES,41
+CUST-566,Brett Nelson,angelachase@example.org,(537) 363 - 4669,South,TN,B2C,03/31/2026,Active,1,33
+C390,Kevin Warner,stacey92@example.net,+14816158148,West,OH,B2C,06-May-2026,Active,True,59
+CUST-002,Amanda Davis,williamjohnson@example.org,(586) 379 - 4026,East,IL,B2B,24-Feb-2021,Churned,False,63
+CUST-995,Clinton Fritz,alejandro50@example.net,(390) 482 - 3571,East,AZ,B2C,10-Aug-2023,Active,YES,18
+CUST-317,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,jacobsandoval@example.com,514-386 - 6322,West,CO,B2B,04-Mar-2025,Active,YES,71
+CUST-562,Scott Parsons,sbray@example.net,(547) 355 - 2896,North,TX,B2B,2024-09-07,Churned,0,70
+CUST-932,Emily Peterson,andrewzamora@example.net,(726) 356 - 0229,South,MI,B2C,03/14/2021,Churned,NO,35
+CUST-081,Kyle Beard,blackjames@example.org,+12076617711,East,MI,B2B,2023-04-22,Active,True,68
+CUST-206,Jodi Roach,zosborn@example.net,(374) 451 - 8705,South,IL,B2C,2021-07-25,Active,True,75
+CUST-035,Eugene Walton,smithchristine@example.net,9743487347,North,AZ,B2C,11/25/2025,Active,YES,999
+CUST-943,Christian Watson,kevin70@example.org,+12768362536,West,TN,B2C,11/15/2022,Inactive,False,19
+CUST-776,Brian Mendoza,karenhodges@example.com,(882) 973 - 2702,North,OH,B2C,2023-04-05,Active,1,33
+CUST-509,Theresa Torres,jason82@example.org,572-368 - 3147,South,GA,B2C,10/06/2023,Active,YES,43
+CUST-428,Scott Chan,mercedesholland@example.net,+13776253492,Central,TN,B2B,09/13/2023,Churned,False,70
+CUST-455,Erin Smith,meadowsmary@example.net,+16013223423,South,TX,B2C,04/07/2026,Inactive,False,44
+CUST-706,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,jonesalfred@example.net,9694591966,South,MI,B2C,2021-09-21,Churned,NO,75
+CUST-367,Justin Torres,stevenvargas@example.com,3298266570,South,GA,B2C,07/20/2023,Inactive,0,71
+C92,Matthew Moore,andreamoore@example.com,+18136968164,East,FL,B2C,09/24/2025,Active,YES,26
+CUST-340,Bianca Phelps,patricia00@example.org,231-731 - 0967,Central,MI,B2C,04/14/2023,Active,YES,40
+CUST-898,Andrew Rodriguez,dgutierrez@example.net,(684) 399 - 1062,South,GA,B2C,02/04/2025,Inactive,False,69
+CUST-565,Mr. Michael Watson PhD,shannon92@example.net,+19255877749,West,WA,Guest,2021-12-22,Active,1,50
+CUST-346,Nicholas Garcia,michael42@example.com,+16888992107,East,NY,B2B,05/11/2022,Active,1,66
+CUST-777,Kathy Henderson,brownmichael@example.com,3206021288,West,TN,B2C,30-May-2023,Active,YES,75
+CUST-242,Shirley Alvarez,katelynmitchell@example.com,(429) 034 - 9446,West,MA,B2C,2023-11-15,Active,1,61
+CUST-014,Zachary Rice,frazierdanny@example.net,9631165667,North,WA,B2C,09/07/2023,Active,1,27
+CUST-316,Megan Martin,zacharyarnold@example.com,995-527 - 6365,East,MA,B2C,2023-04-30,Active,1,69
+CUST-601,Mr. Edward Terry,ashleystephens@example.com,464-488 - 6946,North,TX,B2C,2020-09-29,Inactive,False,57
+CUST-388,Dr. Ariel Sandoval MD,gallagherstacie@example.net,(417) 174 - 7733,South,MA,Guest,2025-05-18,Active,True,60
+CUST-274,Alexis Giles,burgesskaren@example.org,838-406 - 6658,North,CA,B2C,27-Dec-2022,Active,YES,53
+CUST-167,Mark Hogan,bellcharles@example.com,+13142626551,North,CA,Guest,12/28/2020,Active,YES,54
+CUST-841,Ryan Cobb PhD,karlwilliams@example.net,640-630 - 6244,West,MI,B2C,15-Feb-2022,Active,True,48
+CUST-021,Jennifer Powers,samuel87@example.org,+17135427849,Central,CA,B2C,02/13/2022,Active,1,38
+CUST-647,Lisa Joseph,jack67@example.com,2414545635,North,NY,B2B,20-Jul-2021,Active,1,63
+CUST-819,William Martinez,stonetyler@example.com,(325) 902 - 0357,North,TN,B2C,11/17/2023,Active,True,55
+CUST-485,Anthony Brown,karen24@example.net,8124815698,East,GA,B2C,2020-08-16,Inactive,NO,32
+CUST-278,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,,,West,,,08/26/2021,Churned,False,28
+CUST-505,Ryan Howard,robertsgina@example.net,(386) 617 - 9454,Central,TX,B2C,23-May-2025,Active,True,60
+CUST-832,Chad Baldwin MD,carrolltracy@example.net,(826) 244 - 6704,West,NY,B2B,2021-10-21,Inactive,NO,57
+CUST-244,Ryan Peck,osbornrandy@example.com,+17444328309,West,WA,B2C,24-Nov-2021,Active,YES,23
+C567,Nancy Kennedy,thompsonvictor@example.net,(347) 853 - 9078,Central,PA,B2C,08/26/2021,Active,1,44
+CUST-876,James Henderson,charles80@example.org,(787) 495 - 1191,Central,CO,B2B,02-Apr-2026,Active,True,31
+CUST-563,Adam Craig,ucarpenter@example.com,855-963 - 0993,Central,IL,B2C,04/28/2024,Active,True,73
+CUST-243,<bound method StringMethods.upper of <pandas.core.strings.accessor.StringMethods object at 0x0000021DDB596D00>>,amandasharp@example.org,8910858994,East,WA,B2B,2025-11-26,Active,True,44
+CUST-687,Louis Morgan,bwilliams@example.com,(814) 768 - 3420,North,TN,Guest,2021-11-13,Active,1,49
+CUST-958,Allen Schultz,adamstabitha@example.net,(259) 129 - 7519,North,CA,B2C,11/15/2023,Active,YES,64
+CUST-190,Aaron Gomez,qlopez@example.org,+19590175186,South,OH,B2C,2021-08-19,Active,True,32
+CUST-783,Carlos Clarke,kristinaperez@example.com,288-307 - 0534,Central,OH,B2C,04/21/2024,Active,True,60
+CUST-976,Zachary Hill,hsimpson@example.org,210-587 - 5256,Central,CA,B2C,2023-02-27,Active,1,64
+CUST-700,Nicole Guerrero,yschmidt@example.net,2412091179,North,TX,B2B,2025-10-27,Active,True,71
+CUST-476,Jason House,bartonshannon@example.net,(497) 374 - 8969,North,NC,B2B,14-Apr-2023,Active,True,38
+CUST-682,Christine Johnson MD,smithsarah@example.net,4758955168,West,IL,Guest,02-Mar-2026,Churned,NO,73
+CUST-511,Joshua Roberts,kingjames@example.net,9998407678,Central,AZ,B2C,2025-01-29,Inactive,0,999
+CUST-059,Robert Dominguez,pwilliams@example.org,2385977034,Central,NY,Guest,2024-01-10,Active,True,60
+CUST-475,Craig Martinez,ylewis@example.org,+16685366498,West,WA,B2C,27-Apr-2021,Active,YES,39
+CUST-561,Bethany Fox,imendoza@example.org,458-323 - 0241,North,MA,B2C,2022-04-20,Active,True,65
+CUST-857,Melissa Rodriguez,pwells@example.com,664-303 - 9429,North,IL,B2C,31-Jul-2024,Active,1,32
+CUST-748,Bryan Sutton,marcoconnell@example.org,534-774 - 3326,Central,CO,B2C,07-Mar-2026,Active,YES,49
+CUST-253,Tyler Mendoza,madkins@example.com,5323098215,North,OH,Guest,08/21/2025,Active,1,64
+CUST-022,George Chapman,briannasmith@example.net,(611) 824 - 4935,South,WA,B2C,07/09/2022,Active,True,55
+CUST-460,James Bryant,evaughn@example.com,561-517 - 1827,East,AZ,B2C,19-Dec-2021,Inactive,0,29
+CUST-277,Erica Harris,robert93@example.net,(679) 851 - 5832,Central,TX,B2C,27-May-2024,Active,1,22
+CUST-956,Deanna David,williamsjohn@example.net,7254837441,West,TN,B2C,2023-12-03,Inactive,False,65
+CUST-386,Kari Durham,paul20@example.com,+15214958702,North,GA,Guest,28-Jun-2024,Active,True,40
+CUST-806,Melinda Turner,cody95@example.org,(951) 097 - 9215,Central,TN,B2B,06-Feb-2023,Active,1,48
+CUST-344,April Woods,brittneystone@example.com,7855665939,Central,FL,B2C,2021-03-09,Active,1,42
+CUST-770,David Duarte,castillokevin@example.net,795-616 - 4205,Central,CO,B2C,07/16/2021,Churned,0,43
+CUST-131,Elizabeth Ortiz,brandonjohnson@example.com,(716) 940 - 9749,Central,FL,B2C,2024-05-11,Active,1,43
+CUST-872,Cheryl Atkins,keith76@example.org,8734996010,East,IL,B2C,04/27/2022,Active,1,26
+CUST-088,Julie Alexander,tammyking@example.com,(347) 679 - 7643,Central,TX,B2C,07-Jul-2020,Active,1,39
+CUST-331,Angie Grimes,rowejoel@example.net,847-570 - 5120,East,CO,B2C,2023-05-17,Active,True,28
+CUST-467,Sheila Jones,vflores@example.com,(956) 770 - 0284,South,GA,B2C,2024-05-27,Active,YES,56
+CUST-122,William Barrett,alan09@example.net,+12010943969,North,GA,Guest,11-May-2026,Active,True,39
+C861,Timothy Sherman,jason27@example.net,(998) 334 - 2337,South,CA,Guest,08/01/2022,Active,YES,31

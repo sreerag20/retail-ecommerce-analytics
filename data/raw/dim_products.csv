@@ -1,2 +1,209 @@
 product_id,product_name,category,subcategory,unit_price,unit_cost,is_active,launch_date
-PROD-200,With Furniture Elite,Home & Garden,Furniture,"1,144.320",$649.55,YES,29-Aug-2020
+PROD-162,Us Supplies X,Office,Supplies,211.210,94.850,True,2026-05-15
+PROD-016,,Beauty,,"$1,010.79",,True,
+PROD-074,Who Team Elite,Sports,Team Sports,$991.75,582,True,12/08/2025
+PROD-097,Building Stationery X,Office,Stationery,790.900,448,YES,07/17/2024
+PROD-167,Between Fragrance Plus,Beauty,Fragrance,116,72,True,01/12/2020
+PROD-010,Better Furniture Elite,Home & Garden,Furniture,$257.12,186.970,NO,2018-08-31
+PROD-101,Grow Team X,Sports,Team Sports,"$1,176.39",526.430,1,2023-11-12
+PROD-136,Policy Supplies X,Office,Supplies,856,430.030,YES,2025-10-31
+PROD-019,True Stationery,Office,Stationery,321.740,224.890,True,04/18/2025
+PROD-149,Once Outdoor Plus,Home & Garden,Outdoor,$634.69,,YES,01-Jun-2023
+PROD-172,Arm Outdoor Plus,Home & Garden,Outdoor,556,$257.59,1,12-Aug-2024
+PROD-031,,Apparel,,716.070,,1,
+PROD-156,Give Women's Plus,Apparel,Women's Clothing,127.850,$57.84,1,09/21/2025
+PROD-181,Knowledge Furniture Elite,Office,Furniture,85.880,$48.13,YES,09-Aug-2019
+PROD-126,Our Outdoor Elite,Sports,Outdoor Recreation,892,367.340,YES,11/17/2025
+PROD-198,Hundred Skincare Elite,Beauty,Skincare,$953.47,$527.75,True,10/24/2019
+PROD-165,Material Furniture Elite,Home & Garden,Furniture,701.370,285.160,True,31-Jan-2025
+PROD-191,With Laptops Pro,Electronics,Laptops,807.060,$413.61,True,16-Mar-2019
+PROD-085,Benefit Footwear X,Apparel,Footwear,106.790,47.980,True,2022-08-11
+PROD-076,Evidence Decor Plus,Home & Garden,Decor,$339.19,199.600,False,17-Aug-2019
+PROD-125,Effect Laptops,Electronics,Laptops,285.590,,1,
+PROD-171,,Sports,,$345.49,,True,
+PROD-105,Type Haircare Plus,Beauty,Haircare,466,$287.03,1,07/21/2024
+PROD-102,Finally Men's Lite,Apparel,Men's Clothing,335,$223.19,1,12-May-2019
+PROD-070,,Electronics,,$693.08,,1,
+PROD-026,Best Fitness Pro,Sports,Fitness,337.860,$152.01,0,2019-04-13
+PROD-096,,Home & Garden,,977,,YES,
+PROD-017,List Furniture Plus,Office,Furniture,$588.88,,1,
+PROD-142,Remain Furniture X,Home & Garden,Furniture,$695.61,302,YES,10/21/2021
+PROD-186,Training Furniture Lite,Home & Garden,Furniture,905.180,386,True,04/14/2025
+PROD-155,Almost Kitchen,Home & Garden,Kitchen,96,58,1,02/11/2026
+PROD-069,White Decor Pro,Home & Garden,,$205.51,,1,
+PROD-067,Institution Fragrance Pro,Beauty,,67.240,,True,
+P121,Woman Fragrance Elite,Beauty,Fragrance,810,$412.73,True,13-May-2019
+PROD-148,Against Haircare Elite,Beauty,Haircare,$585.37,308,True,15-Apr-2021
+PROD-099,Social Wearables Pro,Electronics,Wearables,960.180,608,True,12/24/2022
+PROD-139,Show Kitchen Pro,Home & Garden,Kitchen,$825.75,445,1,11/01/2024
+PROD-168,Reason Outdoor X,Home & Garden,Outdoor,$234.45,175.840,1,2019-03-28
+PROD-046,,Electronics,,717.900,,YES,
+PROD-114,Hour Furniture Elite,Office,Furniture,$768.53,399,True,2019-09-17
+PROD-066,Support Sportswear Elite,Apparel,Sportswear,395,$258.90,True,2018-09-07
+PROD-179,Customer Laptops Plus,Electronics,Laptops,"1,004.840",552.590,1,16-Jan-2020
+PROD-087,Break Supplies Plus,Office,Supplies,123.580,$80.96,True,2025-09-26
+PRD-012, play furniture pro ,Office,Furniture,$437.59,$327.72,True,2022-09-17
+PROD-068,Attorney Men's Elite,Apparel,Men's Clothing,747.500,$332.95,1,09/08/2020
+PROD-083,Discuss Sportswear Plus,Apparel,,127,,True,
+PRD-003, election fragrance ,Beauty,Fragrance,$843.08,$436.55,YES,2020-10-01
+P195,Different Outdoor,Sports,Outdoor Recreation,145.720,96,YES,07/04/2022
+PROD-039,Dark Sportswear X,Apparel,Sportswear,664.260,$346.13,True,04/28/2023
+PROD-025,Great Accessories Elite,Electronics,Accessories,$875.22,586.600,True,11/27/2024
+PROD-061,Discuss Team X,Sports,Team Sports,79.410,$54.25,YES,24-Feb-2023
+PROD-196,Institution Men's,Apparel,Men's Clothing,167,$63.47,YES,07-Oct-2025
+PROD-030,Surface Haircare X,Beauty,Haircare,$73.31,$42.79,True,29-Aug-2020
+PROD-020,Song Haircare Plus,Beauty,Haircare,481,$298.08,True,20-Jun-2018
+PROD-056,Shoulder Fragrance Elite,Beauty,Fragrance,560,$320.94,0,12/15/2022
+PROD-094,Enter Sportswear Elite,Apparel,Sportswear,625,,True,29-Nov-2022
+PROD-182,Family Accessories,Electronics,Accessories,1177,$531.52,1,12/22/2019
+PROD-159,,Office,,$375.94,,1,
+PROD-006,Sit Furniture Plus,Office,Furniture,694,$439.08,True,03/02/2024
+PROD-133,Your Team,Sports,Team Sports,$618.32,243.380,1,15-Jun-2022
+PROD-057,Common Supplies Elite,Office,,716.570,,0,
+PROD-128,Mention Haircare Plus,Beauty,Haircare,$77.36,35.610,0,2024-08-20
+PROD-116,,Electronics,,"1,038.760",,False,
+PROD-147,Attack Stationery Lite,Office,Stationery,"1,060.590",$437.21,YES,04/28/2020
+PROD-109,Born Stationery Pro,Office,Stationery,$742.86,329.760,YES,2026-03-05
+PROD-178,Energy Fitness X,Sports,,932,,YES,
+PROD-032,Not Wearables,Electronics,Wearables,102,$63.12,1,2022-04-27
+PROD-013,Option Skincare X,Beauty,Skincare,951.530,493,YES,2018-08-21
+PROD-036,Production Furniture,Office,Furniture,"$1,118.45",$437.80,0,2025-06-19
+PROD-029,Pm Supplies X,Office,Supplies,863.500,355.690,True,05/03/2021
+PROD-043,Base Men's Lite,Apparel,Men's Clothing,462,168,True,11/15/2020
+PROD-080,Pattern Tablets Plus,Electronics,Tablets,$382.08,$247.26,0,06-Oct-2024
+PROD-098,Value Haircare Elite,Beauty,Haircare,913,393.970,True,2024-03-18
+PROD-143,Hour Smartphones,Electronics,Smartphones,691.050,465.000,1,10-Dec-2023
+PROD-052,Write Skincare Pro,Beauty,Skincare,$615.85,411.080,NO,19-May-2024
+PROD-118,A Laptops Lite,Electronics,Laptops,$374.17,$196.94,YES,23-Mar-2026
+PROD-169,Health Stationery Plus,Office,Stationery,796,$557.65,True,29-Jan-2022
+PROD-077,Employee Sportswear Elite,Apparel,Sportswear,588.850,384,True,07-Aug-2019
+PROD-042,Spring Sportswear Plus,Apparel,Sportswear,34.620,22.320,YES,2020-05-08
+PROD-129,,Beauty,,"1,165.460",,1,
+PROD-079,Everyone Outdoor Lite,Home & Garden,,1195,,True,
+PROD-177,Training Outdoor X,Sports,Outdoor Recreation,11.280,4.310,1,03/22/2025
+PROD-027,Bill Stationery Elite,Office,Stationery,1162,837,True,08/23/2021
+PROD-140,Deep Haircare,Beauty,Haircare,975.060,558,True,12-Apr-2024
+PROD-110,Process Laptops Lite,Electronics,Laptops,535,$335.89,NO,10/25/2025
+PROD-199,In Decor Elite,Home & Garden,Decor,$563.55,418,1,06/06/2018
+PROD-003,Election Fragrance,Beauty,Fragrance,$843.08,$436.55,YES,2020-10-01
+PROD-078,Option Smartphones X,Electronics,Smartphones,269,169,1,30-Sep-2024
+PROD-047,Prove Stationery,Office,Stationery,309.390,196.000,1,08-Apr-2022
+PROD-127,Bed Smartphones Lite,Electronics,Smartphones,$264.64,139.700,1,2019-01-30
+PROD-112,Movement Outdoor Lite,Sports,Outdoor Recreation,821,450.980,YES,11/06/2023
+PROD-091,Attack Supplies,Office,Supplies,989.970,711,YES,2023-06-26
+PROD-086,Anyone Furniture X,Office,Furniture,543,286.400,False,2024-11-03
+PROD-141,Forget Team X,Sports,Team Sports,"$1,048.96",762,YES,23-Jun-2024
+PROD-037,Value Footwear X,Apparel,Footwear,341.700,148,YES,03-Sep-2023
+PROD-119,Game Haircare Lite,Beauty,Haircare,214.890,86.570,True,2023-07-04
+PROD-062,Garden Fitness,Sports,Fitness,"1,131.580",531.210,1,2024-03-27
+P023,Fall Stationery Plus,Office,Stationery,869,611,True,04/22/2021
+PROD-138,Notice Team,Sports,Team Sports,993,506,YES,2026-04-25
+PROD-146,End Wearables Lite,Electronics,Wearables,262,135.740,1,2019-06-10
+PROD-034,Bar Supplies Pro,Office,Supplies,"$1,195.34",453,True,2021-08-19
+PROD-012,Play Furniture Pro,Office,Furniture,$437.59,$327.72,True,2022-09-17
+PRD-023, fall stationery plus ,Office,Stationery,869,611,True,04/22/2021
+PROD-166,Investment Supplies,Office,,"$1,125.91",,1,
+PROD-007,Offer Team Lite,Sports,Team Sports,$546.83,373.840,1,2025-12-31
+PROD-028,Throw Fitness,Sports,Fitness,201,70,1,2021-06-19
+PROD-157,My Team X,Sports,Team Sports,906.560,592.850,YES,06-Jan-2019
+PROD-200,With Haircare,Beauty,Haircare,$633.21,416,True,08/31/2020
+PROD-144,We Wearables Lite,Electronics,Wearables,1115,760.370,YES,02/20/2022
+PROD-005,Blue Furniture Lite,Office,Furniture,$969.52,622.330,1,2024-09-04
+PROD-033,Win Kitchen Pro,Home & Garden,Kitchen,322,$129.72,YES,2019-06-22
+PROD-113,Decide Furniture Elite,Home & Garden,Furniture,"$1,079.20",-99.99,YES,05-Aug-2023
+PROD-193,Compare Wearables Plus,Electronics,Wearables,$188.36,99.820,1,2020-06-03
+PROD-120,After Outdoor Plus,Home & Garden,Outdoor,1161,$543.42,False,07/27/2022
+PROD-151,Account Outdoor,Sports,Outdoor Recreation,$845.89,465,True,2020-04-14
+PROD-115,Color Sportswear Elite,Apparel,Sportswear,$688.45,399.250,NO,2024-11-24
+PROD-011,Early Haircare X,Beauty,Haircare,175,71.320,YES,09-Apr-2020
+PROD-063,Special Stationery,Office,Stationery,588,270.190,YES,2025-07-31
+PROD-123,Surface Skincare,Beauty,Skincare,568.410,$339.81,False,2025-06-26
+PROD-153,Artist Team Lite,Sports,,142,,True,
+PROD-173,Ready Footwear Pro,Apparel,Footwear,67.350,36.520,YES,02/21/2024
+PROD-001,Brother Skincare,Beauty,Skincare,$34.89,16.050,1,07-Nov-2023
+PROD-188,Apply Team Elite,Sports,Team Sports,1109,$618.81,1,31-Mar-2019
+PROD-160,Notice Supplies X,Office,Supplies,$464.46,-99.99,0,26-Mar-2020
+PROD-071,Forward Skincare Pro,Beauty,Skincare,$126.77,83.540,NO,08-Jul-2024
+PROD-163,Part Decor,Home & Garden,Decor,"1,101.930",$556.44,1,09-Apr-2023
+PROD-065,Term Skincare Elite,Beauty,Skincare,$105.32,54,NO,05/11/2020
+PROD-045,Blood Outdoor X,Sports,Outdoor Recreation,1177,$664.67,NO,10/13/2025
+PROD-137,Development Laptops Elite,Electronics,Laptops,"$1,024.09",625,True,04-Jan-2022
+PROD-041,Recently Skincare Plus,Beauty,Skincare,427.650,$245.45,False,20-Oct-2018
+PROD-124,Education Haircare Lite,Beauty,Haircare,"$1,091.72",$514.06,YES,01/10/2021
+PROD-024,Dinner Accessories,Electronics,Accessories,428.390,220.380,False,09/26/2019
+P187,Oil Outdoor Elite,Home & Garden,,1067,,0,
+PROD-154,Author Fitness Lite,Sports,Fitness,295,173.180,True,2020-05-11
+P082,Inside Kitchen Lite,Home & Garden,Kitchen,$366.21,231.890,1,05/17/2023
+PROD-040,Available Kitchen,Home & Garden,Kitchen,518,$190.19,True,05/28/2024
+P176,Group Smartphones,Electronics,Smartphones,950.700,$385.07,YES,2024-08-09
+PROD-048,His Skincare,Beauty,Skincare,440.240,166,True,2025-07-04
+PROD-095,Traditional Team,Sports,Team Sports,492,235,YES,02/12/2023
+PROD-183,Enjoy Skincare Lite,Beauty,,926,,1,
+PROD-044,Early Men's,Apparel,Men's Clothing,793,404,1,09/08/2025
+PROD-145,Live Furniture,Home & Garden,Furniture,$221.78,90.330,True,10/25/2022
+PROD-004,Chair Decor Lite,Home & Garden,Decor,190,$139.83,YES,04/23/2020
+PROD-106,Everyone Furniture,Office,Furniture,1044,$730.66,True,13-Jul-2024
+P054,Politics Men's,Apparel,Men's Clothing,60,44,1,01/07/2019
+PROD-134,Company Outdoor Pro,Home & Garden,Outdoor,773,280.470,NO,2023-02-02
+PRD-121, woman fragrance elite ,Beauty,Fragrance,810,$412.73,True,13-May-2019
+PROD-164,Eight Furniture X,Home & Garden,Furniture,398.980,228.690,True,2022-06-07
+PROD-194,Mention Outdoor Elite,Home & Garden,Outdoor,380.690,$175.68,0,11/13/2021
+PROD-050,Determine Outdoor Elite,Sports,Outdoor Recreation,"1,128.730",700,0,07-Jun-2021
+PROD-081,Water Team Lite,Sports,Team Sports,$870.88,$645.01,True,2022-01-21
+PROD-035,Finally Decor Pro,Home & Garden,Decor,193.510,132.260,1,09-Feb-2023
+PROD-008,Performance Fragrance Elite,Beauty,Fragrance,$90.33,54,YES,02/25/2019
+PROD-111,Thought Outdoor Pro,Home & Garden,Outdoor,$178.96,$100.66,1,12/13/2020
+PROD-092,I Outdoor Lite,Home & Garden,Outdoor,528,311.180,False,07-Sep-2021
+PROD-084,Mr Outdoor Pro,Home & Garden,Outdoor,141.330,53.160,True,03-Aug-2019
+PROD-185,Level Kitchen X,Home & Garden,Kitchen,57.350,24,YES,2019-01-20
+PROD-190,Administration Sportswear Lite,Apparel,Sportswear,425.100,155,0,2025-07-10
+PROD-090,Knowledge Fitness Plus,Sports,Fitness,$655.75,$399.39,NO,03/14/2024
+PROD-009,Almost Fragrance Lite,Beauty,Fragrance,$670.55,$418.32,YES,12/31/2021
+PROD-014,Sense Stationery Pro,Office,Stationery,817.940,323,NO,2020-02-07
+PROD-060,Rise Women's Lite,Apparel,Women's Clothing,281,176,1,11/09/2023
+PRD-122, unit furniture lite ,Home & Garden,Furniture,548,339.570,True,01-Jul-2021
+P132,Receive Furniture Pro,Home & Garden,Furniture,$213.22,79.100,YES,03-Jul-2019
+PROD-018,Fall Laptops,Electronics,Laptops,$879.63,$594.99,NO,04-Jun-2023
+PROD-073,Individual Outdoor X,Home & Garden,Outdoor,850,445.690,YES,29-Aug-2022
+PROD-184,Wind Sportswear Elite,Apparel,Sportswear,"$1,177.08",637.290,True,11/06/2025
+PROD-135,News Haircare X,Beauty,Haircare,$92.82,35,1,08/31/2020
+PROD-174,Billion Tablets Elite,Electronics,Tablets,$330.99,$235.71,YES,2023-11-28
+PROD-192,Time Supplies Elite,Office,Supplies,938,341,1,27-Oct-2024
+PROD-064,Arrive Skincare X,Beauty,Skincare,"$1,009.40",724,0,04-Jan-2025
+PROD-055,Congress Sportswear Plus,Apparel,Sportswear,$595.78,266,True,10/24/2023
+PROD-108,Movement Skincare,Beauty,Skincare,1022,706.730,NO,2019-12-07
+PROD-051,Example Smartphones Elite,Electronics,Smartphones,347,181,YES,11-Feb-2024
+PROD-175,,Electronics,,68,,YES,
+PRD-196, institution men's ,Apparel,Men's Clothing,167,$63.47,YES,07-Oct-2025
+PROD-170,Item Fragrance,Beauty,Fragrance,971,404.480,True,2022-01-06
+PROD-059,Wish Skincare X,Beauty,Skincare,333,126,True,2020-09-15
+PROD-049,Hospital Haircare Plus,Beauty,Haircare,611,376.840,True,18-Oct-2019
+PROD-089,Structure Haircare,Beauty,Haircare,845.070,449.250,True,2019-10-10
+PROD-022,Knowledge Men's Elite,Apparel,Men's Clothing,1086,754.210,True,05/08/2024
+PROD-058,Hundred Fitness X,Sports,Fitness,893.670,482,YES,05/06/2022
+PROD-161,Several Footwear,Apparel,Footwear,$727.98,400,False,2019-07-16
+PRD-087, break supplies plus ,Office,Supplies,123.580,$80.96,True,2025-09-26
+P130,No Women's Plus,Apparel,Women's Clothing,$976.60,432,True,18-Nov-2024
+PROD-038,High Furniture,Home & Garden,Furniture,115,$59.89,YES,09/28/2025
+PROD-158,Family Haircare Pro,Beauty,Haircare,185,69.950,YES,2020-06-08
+P197,Artist Haircare,Beauty,Haircare,$852.90,486.150,1,2026-02-01
+PROD-002,Site Wearables X,Electronics,Wearables,509.200,$184.29,True,16-Aug-2018
+PROD-053,Raise Supplies Plus,Office,Supplies,761.360,368,True,03/23/2024
+PROD-150,Per Women's Plus,Apparel,Women's Clothing,918.170,427,True,2020-05-14
+PROD-131,Car Furniture Plus,Office,Furniture,$959.22,377,0,12/04/2024
+PROD-152,Second Fitness,Sports,Fitness,554.410,211,1,2019-01-06
+PROD-104,About Kitchen,Home & Garden,Kitchen,"$1,177.03",524,YES,2022-04-09
+PROD-100,Specific Accessories,Electronics,Accessories,1136,692.370,YES,05-Sep-2020
+PROD-117,Nice Furniture Plus,Office,Furniture,266.710,113.630,1,04-Apr-2026
+PROD-088,Product Men's Plus,Apparel,Men's Clothing,192,$98.60,YES,2019-09-17
+PROD-075,Low Outdoor Plus,Sports,Outdoor Recreation,$734.35,-99.99,YES,2023-11-18
+PROD-122,Unit Furniture Lite,Home & Garden,Furniture,548,339.570,True,01-Jul-2021
+PRD-095, traditional team ,Sports,Team Sports,492,235,YES,02/12/2023
+PROD-021,Collection Smartphones,Electronics,Smartphones,$30.14,-99.99,True,04/07/2025
+PROD-189,Now Footwear,Apparel,Footwear,388,148.550,YES,2023-12-17
+PROD-072,Reality Furniture Pro,Office,Furniture,795,300,YES,03/21/2020
+PROD-107,Sound Outdoor,Sports,Outdoor Recreation,1164,442.280,YES,2022-09-02
+PROD-015,Science Fitness X,Sports,Fitness,547.200,$400.29,False,2023-12-10
+PROD-093,Management Tablets X,Electronics,Tablets,"1,154.480",790,True,06/25/2023
+PROD-180,List Footwear,Apparel,Footwear,$517.94,308.650,True,2022-12-22
+PROD-103,Coach Outdoor Elite,Home & Garden,Outdoor,"1,038.990",549.230,YES,2022-02-09

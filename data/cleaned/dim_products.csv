@@ -1,2 +1,209 @@
 product_id,product_name,category,subcategory,unit_price,unit_cost,is_active,launch_date
-PROD-0200,With Furniture Elite,Home & Garden,Furniture,1144.32,649.55,1,2020-08-29
+PROD-0162,Us Supplies X,Office,Supplies,211.21,94.85,1,2026-05-15
+PROD-0016,,Beauty,,1010.79,,1,
+PROD-0074,Who Team Elite,Sports,Team Sports,991.75,582.0,1,2025-12-08
+PROD-0097,Building Stationery X,Office,Stationery,790.9,448.0,1,2024-07-17
+PROD-0167,Between Fragrance Plus,Beauty,Fragrance,116.0,72.0,1,2020-01-12
+PROD-0010,Better Furniture Elite,Home & Garden,Furniture,257.12,186.97,0,2018-08-31
+PROD-0101,Grow Team X,Sports,Team Sports,1176.39,526.43,1,2023-11-12
+PROD-0136,Policy Supplies X,Office,Supplies,856.0,430.03,1,2025-10-31
+PROD-0019,True Stationery,Office,Stationery,321.74,224.89,1,2025-04-18
+PROD-0149,Once Outdoor Plus,Home & Garden,Outdoor,634.69,,1,2023-06-01
+PROD-0172,Arm Outdoor Plus,Home & Garden,Outdoor,556.0,257.59,1,2024-08-12
+PROD-0031,,Apparel,,716.07,,1,
+PROD-0156,Give Women's Plus,Apparel,Women's Clothing,127.85,57.84,1,2025-09-21
+PROD-0181,Knowledge Furniture Elite,Office,Furniture,85.88,48.13,1,2019-08-09
+PROD-0126,Our Outdoor Elite,Sports,Outdoor Recreation,892.0,367.34,1,2025-11-17
+PROD-0198,Hundred Skincare Elite,Beauty,Skincare,953.47,527.75,1,2019-10-24
+PROD-0165,Material Furniture Elite,Home & Garden,Furniture,701.37,285.16,1,2025-01-31
+PROD-0191,With Laptops Pro,Electronics,Laptops,807.06,413.61,1,2019-03-16
+PROD-0085,Benefit Footwear X,Apparel,Footwear,106.79,47.98,1,2022-08-11
+PROD-0076,Evidence Decor Plus,Home & Garden,Decor,339.19,199.6,0,2019-08-17
+PROD-0125,Effect Laptops,Electronics,Laptops,285.59,,1,
+PROD-0171,,Sports,,345.49,,1,
+PROD-0105,Type Haircare Plus,Beauty,Haircare,466.0,287.03,1,2024-07-21
+PROD-0102,Finally Men's Lite,Apparel,Men's Clothing,335.0,223.19,1,2019-05-12
+PROD-0070,,Electronics,,693.08,,1,
+PROD-0026,Best Fitness Pro,Sports,Fitness,337.86,152.01,0,2019-04-13
+PROD-0096,,Home & Garden,,977.0,,1,
+PROD-0017,List Furniture Plus,Office,Furniture,588.88,,1,
+PROD-0142,Remain Furniture X,Home & Garden,Furniture,695.61,302.0,1,2021-10-21
+PROD-0186,Training Furniture Lite,Home & Garden,Furniture,905.18,386.0,1,2025-04-14
+PROD-0155,Almost Kitchen,Home & Garden,Kitchen,96.0,58.0,1,2026-02-11
+PROD-0069,White Decor Pro,Home & Garden,,205.51,,1,
+PROD-0067,Institution Fragrance Pro,Beauty,,67.24,,1,
+PROD-0121,Woman Fragrance Elite,Beauty,Fragrance,810.0,412.73,1,2019-05-13
+PROD-0148,Against Haircare Elite,Beauty,Haircare,585.37,308.0,1,2021-04-15
+PROD-0099,Social Wearables Pro,Electronics,Wearables,960.18,608.0,1,2022-12-24
+PROD-0139,Show Kitchen Pro,Home & Garden,Kitchen,825.75,445.0,1,2024-11-01
+PROD-0168,Reason Outdoor X,Home & Garden,Outdoor,234.45,175.84,1,2019-03-28
+PROD-0046,,Electronics,,717.9,,1,
+PROD-0114,Hour Furniture Elite,Office,Furniture,768.53,399.0,1,2019-09-17
+PROD-0066,Support Sportswear Elite,Apparel,Sportswear,395.0,258.9,1,2018-09-07
+PROD-0179,Customer Laptops Plus,Electronics,Laptops,1004.84,552.59,1,2020-01-16
+PROD-0087,Break Supplies Plus,Office,Supplies,123.58,80.96,1,2025-09-26
+PROD-0012, play furniture pro ,Office,Furniture,437.59,327.72,1,2022-09-17
+PROD-0068,Attorney Men's Elite,Apparel,Men's Clothing,747.5,332.95,1,2020-09-08
+PROD-0083,Discuss Sportswear Plus,Apparel,,127.0,,1,
+PROD-0003, election fragrance ,Beauty,Fragrance,843.08,436.55,1,2020-10-01
+PROD-0195,Different Outdoor,Sports,Outdoor Recreation,145.72,96.0,1,2022-07-04
+PROD-0039,Dark Sportswear X,Apparel,Sportswear,664.26,346.13,1,2023-04-28
+PROD-0025,Great Accessories Elite,Electronics,Accessories,875.22,586.6,1,2024-11-27
+PROD-0061,Discuss Team X,Sports,Team Sports,79.41,54.25,1,2023-02-24
+PROD-0196,Institution Men's,Apparel,Men's Clothing,167.0,63.47,1,2025-10-07
+PROD-0030,Surface Haircare X,Beauty,Haircare,73.31,42.79,1,2020-08-29
+PROD-0020,Song Haircare Plus,Beauty,Haircare,481.0,298.08,1,2018-06-20
+PROD-0056,Shoulder Fragrance Elite,Beauty,Fragrance,560.0,320.94,0,2022-12-15
+PROD-0094,Enter Sportswear Elite,Apparel,Sportswear,625.0,,1,2022-11-29
+PROD-0182,Family Accessories,Electronics,Accessories,1177.0,531.52,1,2019-12-22
+PROD-0159,,Office,,375.94,,1,
+PROD-0006,Sit Furniture Plus,Office,Furniture,694.0,439.08,1,2024-03-02
+PROD-0133,Your Team,Sports,Team Sports,618.32,243.38,1,2022-06-15
+PROD-0057,Common Supplies Elite,Office,,716.57,,0,
+PROD-0128,Mention Haircare Plus,Beauty,Haircare,77.36,35.61,0,2024-08-20
+PROD-0116,,Electronics,,1038.76,,0,
+PROD-0147,Attack Stationery Lite,Office,Stationery,1060.59,437.21,1,2020-04-28
+PROD-0109,Born Stationery Pro,Office,Stationery,742.86,329.76,1,2026-03-05
+PROD-0178,Energy Fitness X,Sports,,932.0,,1,
+PROD-0032,Not Wearables,Electronics,Wearables,102.0,63.12,1,2022-04-27
+PROD-0013,Option Skincare X,Beauty,Skincare,951.53,493.0,1,2018-08-21
+PROD-0036,Production Furniture,Office,Furniture,1118.45,437.8,0,2025-06-19
+PROD-0029,Pm Supplies X,Office,Supplies,863.5,355.69,1,2021-05-03
+PROD-0043,Base Men's Lite,Apparel,Men's Clothing,462.0,168.0,1,2020-11-15
+PROD-0080,Pattern Tablets Plus,Electronics,Tablets,382.08,247.26,0,2024-10-06
+PROD-0098,Value Haircare Elite,Beauty,Haircare,913.0,393.97,1,2024-03-18
+PROD-0143,Hour Smartphones,Electronics,Smartphones,691.05,465.0,1,2023-12-10
+PROD-0052,Write Skincare Pro,Beauty,Skincare,615.85,411.08,0,2024-05-19
+PROD-0118,A Laptops Lite,Electronics,Laptops,374.17,196.94,1,2026-03-23
+PROD-0169,Health Stationery Plus,Office,Stationery,796.0,557.65,1,2022-01-29
+PROD-0077,Employee Sportswear Elite,Apparel,Sportswear,588.85,384.0,1,2019-08-07
+PROD-0042,Spring Sportswear Plus,Apparel,Sportswear,34.62,22.32,1,2020-05-08
+PROD-0129,,Beauty,,1165.46,,1,
+PROD-0079,Everyone Outdoor Lite,Home & Garden,,1195.0,,1,
+PROD-0177,Training Outdoor X,Sports,Outdoor Recreation,11.28,4.31,1,2025-03-22
+PROD-0027,Bill Stationery Elite,Office,Stationery,1162.0,837.0,1,2021-08-23
+PROD-0140,Deep Haircare,Beauty,Haircare,975.06,558.0,1,2024-04-12
+PROD-0110,Process Laptops Lite,Electronics,Laptops,535.0,335.89,0,2025-10-25
+PROD-0199,In Decor Elite,Home & Garden,Decor,563.55,418.0,1,2018-06-06
+PROD-0003,Election Fragrance,Beauty,Fragrance,843.08,436.55,1,2020-10-01
+PROD-0078,Option Smartphones X,Electronics,Smartphones,269.0,169.0,1,2024-09-30
+PROD-0047,Prove Stationery,Office,Stationery,309.39,196.0,1,2022-04-08
+PROD-0127,Bed Smartphones Lite,Electronics,Smartphones,264.64,139.7,1,2019-01-30
+PROD-0112,Movement Outdoor Lite,Sports,Outdoor Recreation,821.0,450.98,1,2023-11-06
+PROD-0091,Attack Supplies,Office,Supplies,989.97,711.0,1,2023-06-26
+PROD-0086,Anyone Furniture X,Office,Furniture,543.0,286.4,0,2024-11-03
+PROD-0141,Forget Team X,Sports,Team Sports,1048.96,762.0,1,2024-06-23
+PROD-0037,Value Footwear X,Apparel,Footwear,341.7,148.0,1,2023-09-03
+PROD-0119,Game Haircare Lite,Beauty,Haircare,214.89,86.57,1,2023-07-04
+PROD-0062,Garden Fitness,Sports,Fitness,1131.58,531.21,1,2024-03-27
+PROD-0023,Fall Stationery Plus,Office,Stationery,869.0,611.0,1,2021-04-22
+PROD-0138,Notice Team,Sports,Team Sports,993.0,506.0,1,2026-04-25
+PROD-0146,End Wearables Lite,Electronics,Wearables,262.0,135.74,1,2019-06-10
+PROD-0034,Bar Supplies Pro,Office,Supplies,1195.34,453.0,1,2021-08-19
+PROD-0012,Play Furniture Pro,Office,Furniture,437.59,327.72,1,2022-09-17
+PROD-0023, fall stationery plus ,Office,Stationery,869.0,611.0,1,2021-04-22
+PROD-0166,Investment Supplies,Office,,1125.91,,1,
+PROD-0007,Offer Team Lite,Sports,Team Sports,546.83,373.84,1,2025-12-31
+PROD-0028,Throw Fitness,Sports,Fitness,201.0,70.0,1,2021-06-19
+PROD-0157,My Team X,Sports,Team Sports,906.56,592.85,1,2019-01-06
+PROD-0200,With Haircare,Beauty,Haircare,633.21,416.0,1,2020-08-31
+PROD-0144,We Wearables Lite,Electronics,Wearables,1115.0,760.37,1,2022-02-20
+PROD-0005,Blue Furniture Lite,Office,Furniture,969.52,622.33,1,2024-09-04
+PROD-0033,Win Kitchen Pro,Home & Garden,Kitchen,322.0,129.72,1,2019-06-22
+PROD-0113,Decide Furniture Elite,Home & Garden,Furniture,1079.2,,1,2023-08-05
+PROD-0193,Compare Wearables Plus,Electronics,Wearables,188.36,99.82,1,2020-06-03
+PROD-0120,After Outdoor Plus,Home & Garden,Outdoor,1161.0,543.42,0,2022-07-27
+PROD-0151,Account Outdoor,Sports,Outdoor Recreation,845.89,465.0,1,2020-04-14
+PROD-0115,Color Sportswear Elite,Apparel,Sportswear,688.45,399.25,0,2024-11-24
+PROD-0011,Early Haircare X,Beauty,Haircare,175.0,71.32,1,2020-04-09
+PROD-0063,Special Stationery,Office,Stationery,588.0,270.19,1,2025-07-31
+PROD-0123,Surface Skincare,Beauty,Skincare,568.41,339.81,0,2025-06-26
+PROD-0153,Artist Team Lite,Sports,,142.0,,1,
+PROD-0173,Ready Footwear Pro,Apparel,Footwear,67.35,36.52,1,2024-02-21
+PROD-0001,Brother Skincare,Beauty,Skincare,34.89,16.05,1,2023-11-07
+PROD-0188,Apply Team Elite,Sports,Team Sports,1109.0,618.81,1,2019-03-31
+PROD-0160,Notice Supplies X,Office,Supplies,464.46,,0,2020-03-26
+PROD-0071,Forward Skincare Pro,Beauty,Skincare,126.77,83.54,0,2024-07-08
+PROD-0163,Part Decor,Home & Garden,Decor,1101.93,556.44,1,2023-04-09
+PROD-0065,Term Skincare Elite,Beauty,Skincare,105.32,54.0,0,2020-05-11
+PROD-0045,Blood Outdoor X,Sports,Outdoor Recreation,1177.0,664.67,0,2025-10-13
+PROD-0137,Development Laptops Elite,Electronics,Laptops,1024.09,625.0,1,2022-01-04
+PROD-0041,Recently Skincare Plus,Beauty,Skincare,427.65,245.45,0,2018-10-20
+PROD-0124,Education Haircare Lite,Beauty,Haircare,1091.72,514.06,1,2021-01-10
+PROD-0024,Dinner Accessories,Electronics,Accessories,428.39,220.38,0,2019-09-26
+PROD-0187,Oil Outdoor Elite,Home & Garden,,1067.0,,0,
+PROD-0154,Author Fitness Lite,Sports,Fitness,295.0,173.18,1,2020-05-11
+PROD-0082,Inside Kitchen Lite,Home & Garden,Kitchen,366.21,231.89,1,2023-05-17
+PROD-0040,Available Kitchen,Home & Garden,Kitchen,518.0,190.19,1,2024-05-28
+PROD-0176,Group Smartphones,Electronics,Smartphones,950.7,385.07,1,2024-08-09
+PROD-0048,His Skincare,Beauty,Skincare,440.24,166.0,1,2025-07-04
+PROD-0095,Traditional Team,Sports,Team Sports,492.0,235.0,1,2023-02-12
+PROD-0183,Enjoy Skincare Lite,Beauty,,926.0,,1,
+PROD-0044,Early Men's,Apparel,Men's Clothing,793.0,404.0,1,2025-09-08
+PROD-0145,Live Furniture,Home & Garden,Furniture,221.78,90.33,1,2022-10-25
+PROD-0004,Chair Decor Lite,Home & Garden,Decor,190.0,139.83,1,2020-04-23
+PROD-0106,Everyone Furniture,Office,Furniture,1044.0,730.66,1,2024-07-13
+PROD-0054,Politics Men's,Apparel,Men's Clothing,60.0,44.0,1,2019-01-07
+PROD-0134,Company Outdoor Pro,Home & Garden,Outdoor,773.0,280.47,0,2023-02-02
+PROD-0121, woman fragrance elite ,Beauty,Fragrance,810.0,412.73,1,2019-05-13
+PROD-0164,Eight Furniture X,Home & Garden,Furniture,398.98,228.69,1,2022-06-07
+PROD-0194,Mention Outdoor Elite,Home & Garden,Outdoor,380.69,175.68,0,2021-11-13
+PROD-0050,Determine Outdoor Elite,Sports,Outdoor Recreation,1128.73,700.0,0,2021-06-07
+PROD-0081,Water Team Lite,Sports,Team Sports,870.88,645.01,1,2022-01-21
+PROD-0035,Finally Decor Pro,Home & Garden,Decor,193.51,132.26,1,2023-02-09
+PROD-0008,Performance Fragrance Elite,Beauty,Fragrance,90.33,54.0,1,2019-02-25
+PROD-0111,Thought Outdoor Pro,Home & Garden,Outdoor,178.96,100.66,1,2020-12-13
+PROD-0092,I Outdoor Lite,Home & Garden,Outdoor,528.0,311.18,0,2021-09-07
+PROD-0084,Mr Outdoor Pro,Home & Garden,Outdoor,141.33,53.16,1,2019-08-03
+PROD-0185,Level Kitchen X,Home & Garden,Kitchen,57.35,24.0,1,2019-01-20
+PROD-0190,Administration Sportswear Lite,Apparel,Sportswear,425.1,155.0,0,2025-07-10
+PROD-0090,Knowledge Fitness Plus,Sports,Fitness,655.75,399.39,0,2024-03-14
+PROD-0009,Almost Fragrance Lite,Beauty,Fragrance,670.55,418.32,1,2021-12-31
+PROD-0014,Sense Stationery Pro,Office,Stationery,817.94,323.0,0,2020-02-07
+PROD-0060,Rise Women's Lite,Apparel,Women's Clothing,281.0,176.0,1,2023-11-09
+PROD-0122, unit furniture lite ,Home & Garden,Furniture,548.0,339.57,1,2021-07-01
+PROD-0132,Receive Furniture Pro,Home & Garden,Furniture,213.22,79.1,1,2019-07-03
+PROD-0018,Fall Laptops,Electronics,Laptops,879.63,594.99,0,2023-06-04
+PROD-0073,Individual Outdoor X,Home & Garden,Outdoor,850.0,445.69,1,2022-08-29
+PROD-0184,Wind Sportswear Elite,Apparel,Sportswear,1177.08,637.29,1,2025-11-06
+PROD-0135,News Haircare X,Beauty,Haircare,92.82,35.0,1,2020-08-31
+PROD-0174,Billion Tablets Elite,Electronics,Tablets,330.99,235.71,1,2023-11-28
+PROD-0192,Time Supplies Elite,Office,Supplies,938.0,341.0,1,2024-10-27
+PROD-0064,Arrive Skincare X,Beauty,Skincare,1009.4,724.0,0,2025-01-04
+PROD-0055,Congress Sportswear Plus,Apparel,Sportswear,595.78,266.0,1,2023-10-24
+PROD-0108,Movement Skincare,Beauty,Skincare,1022.0,706.73,0,2019-12-07
+PROD-0051,Example Smartphones Elite,Electronics,Smartphones,347.0,181.0,1,2024-02-11
+PROD-0175,,Electronics,,68.0,,1,
+PROD-0196, institution men's ,Apparel,Men's Clothing,167.0,63.47,1,2025-10-07
+PROD-0170,Item Fragrance,Beauty,Fragrance,971.0,404.48,1,2022-01-06
+PROD-0059,Wish Skincare X,Beauty,Skincare,333.0,126.0,1,2020-09-15
+PROD-0049,Hospital Haircare Plus,Beauty,Haircare,611.0,376.84,1,2019-10-18
+PROD-0089,Structure Haircare,Beauty,Haircare,845.07,449.25,1,2019-10-10
+PROD-0022,Knowledge Men's Elite,Apparel,Men's Clothing,1086.0,754.21,1,2024-05-08
+PROD-0058,Hundred Fitness X,Sports,Fitness,893.67,482.0,1,2022-05-06
+PROD-0161,Several Footwear,Apparel,Footwear,727.98,400.0,0,2019-07-16
+PROD-0087, break supplies plus ,Office,Supplies,123.58,80.96,1,2025-09-26
+PROD-0130,No Women's Plus,Apparel,Women's Clothing,976.6,432.0,1,2024-11-18
+PROD-0038,High Furniture,Home & Garden,Furniture,115.0,59.89,1,2025-09-28
+PROD-0158,Family Haircare Pro,Beauty,Haircare,185.0,69.95,1,2020-06-08
+PROD-0197,Artist Haircare,Beauty,Haircare,852.9,486.15,1,2026-02-01
+PROD-0002,Site Wearables X,Electronics,Wearables,509.2,184.29,1,2018-08-16
+PROD-0053,Raise Supplies Plus,Office,Supplies,761.36,368.0,1,2024-03-23
+PROD-0150,Per Women's Plus,Apparel,Women's Clothing,918.17,427.0,1,2020-05-14
+PROD-0131,Car Furniture Plus,Office,Furniture,959.22,377.0,0,2024-12-04
+PROD-0152,Second Fitness,Sports,Fitness,554.41,211.0,1,2019-01-06
+PROD-0104,About Kitchen,Home & Garden,Kitchen,1177.03,524.0,1,2022-04-09
+PROD-0100,Specific Accessories,Electronics,Accessories,1136.0,692.37,1,2020-09-05
+PROD-0117,Nice Furniture Plus,Office,Furniture,266.71,113.63,1,2026-04-04
+PROD-0088,Product Men's Plus,Apparel,Men's Clothing,192.0,98.6,1,2019-09-17
+PROD-0075,Low Outdoor Plus,Sports,Outdoor Recreation,734.35,,1,2023-11-18
+PROD-0122,Unit Furniture Lite,Home & Garden,Furniture,548.0,339.57,1,2021-07-01
+PROD-0095, traditional team ,Sports,Team Sports,492.0,235.0,1,2023-02-12
+PROD-0021,Collection Smartphones,Electronics,Smartphones,30.14,,1,2025-04-07
+PROD-0189,Now Footwear,Apparel,Footwear,388.0,148.55,1,2023-12-17
+PROD-0072,Reality Furniture Pro,Office,Furniture,795.0,300.0,1,2020-03-21
+PROD-0107,Sound Outdoor,Sports,Outdoor Recreation,1164.0,442.28,1,2022-09-02
+PROD-0015,Science Fitness X,Sports,Fitness,547.2,400.29,0,2023-12-10
+PROD-0093,Management Tablets X,Electronics,Tablets,1154.48,790.0,1,2023-06-25
+PROD-0180,List Footwear,Apparel,Footwear,517.94,308.65,1,2022-12-22
+PROD-0103,Coach Outdoor Elite,Home & Garden,Outdoor,1038.99,549.23,1,2022-02-09
