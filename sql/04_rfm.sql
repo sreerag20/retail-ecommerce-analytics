@@ -1,0 +1,1 @@
+-- RFM View is included in 03_transformations.sql
