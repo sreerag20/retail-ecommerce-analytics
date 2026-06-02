@@ -1,0 +1,10 @@
+check_name,rows_flagged,status,run_at
+ship_date before order_date,5,❌ FAIL,2026-06-01 13:50:26
+ship_date before order_date,5,❌ FAIL,2026-06-01 13:50:55
+Completed orders with zero/null revenue,33,❌ FAIL,2026-06-01 13:53:19
+Negative revenue values,0,✅ PASS,2026-06-01 14:35:01
+Duplicate order_id,0,✅ PASS,2026-06-01 14:36:57
+Orphaned customer_id in fact_orders,0,✅ PASS,2026-06-01 14:39:38
+Orphaned product_id in fact_orders,0,✅ PASS,2026-06-01 14:42:04
+end_date before hre_date in dim_sales_rep,4,❌ FAIL,2026-06-01 14:45:06
+end_date before hre_date in dim_sales_rep,4,❌ FAIL,2026-06-01 14:45:25
