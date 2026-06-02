@@ -1,0 +1,76 @@
+rep_id,rep_name,team,manager,hire_date,end_date,is_active
+REP-0001,James Howard,,,,,1
+REP-0002,Renee Blair,Partner,Noah Rhodes,2020-04-04,,1
+REP-0003,Thomas Miller,Enterprise,Daniel Wagner,2023-07-13,,1
+REP-0004,Lisa Hensley,Partner,Daniel Wagner,2019-05-24,,1
+REP-0005,Benjamin Stanley,,,,,1
+REP-0006,Dr. Sharon James,SMB,Abigail Shaffer,2019-05-01,,1
+REP-0007,Holly Wood,Online,Noah Rhodes,2028-01-01,,1
+REP-0008,Mia Sutton,Online,Cristian Santos,2017-12-20,,1
+REP-0009,Carolyn Daniel,Enterprise,Abigail Shaffer,2015-08-15,,1
+REP-0010,Devin Schaefer,Partner,Connie Lawrence,2017-03-09,,1
+REP-0011,Melinda Cameron,,,,,1
+REP-0012,Andrew Stewart,Enterprise,Abigail Shaffer,2015-05-11,2014-10-07,0
+REP-0013,Thomas Bradley,,,,,1
+REP-0014,Jonathan Wilkerson,Enterprise,Angie Henderson,2019-10-05,,1
+REP-0015,Derek Wright,Retail,Abigail Shaffer,2025-05-05,,1
+REP-0016,Nicole Patterson,Partner,Daniel Wagner,2023-12-16,2023-10-27,0
+REP-0017,Daniel Bright,SMB,Allison Hill,2024-05-01,,1
+REP-0018,Peter Callahan Jr.,SMB,Connie Lawrence,2023-01-28,,1
+REP-0019,Jennifer Brown,Retail,Angie Henderson,2017-02-16,,1
+REP-0020,Julie King,Partner,Cristian Santos,2020-11-24,,1
+REP-0021,Alexandra Le,Retail,Connie Lawrence,2023-10-26,,1
+REP-0022,Nicole Mack,Partner,Gina Moore,2026-01-02,,0
+REP-0023,Jeffrey Chavez,SMB,Angie Henderson,2020-03-11,,1
+REP-0024,Pamela Romero,Retail,Abigail Shaffer,2018-11-20,,1
+REP-0025,Elizabeth Fowler,Online,Allison Hill,2016-03-20,2015-09-15,0
+REP-0026,James Martin,Partner,Cristian Santos,2024-10-07,,1
+REP-0027,Linda Burns,Retail,Angie Henderson,2023-06-06,,1
+REP-0028,Sherry Decker,Online,Angie Henderson,2016-04-23,,1
+REP-0029,David Bradley,,,,,0
+REP-0030,John Jones,Partner,Allison Hill,2015-09-30,,1
+REP-0031,Betty Alvarez,Enterprise,Connie Lawrence,2023-06-21,,1
+REP-0032,Joseph Obrien,Partner,Noah Rhodes,2023-10-05,,1
+REP-0033,Nicole Vaughn,Partner,Angie Henderson,2018-01-04,,1
+REP-0034,Michael Brooks,SMB,Cristian Santos,2019-09-16,,1
+REP-0035,David Brown,SMB,Daniel Wagner,2023-03-19,2022-08-18,0
+REP-0036,Crystal Robinson,,,,,1
+REP-0037,Amy Jones,SMB,Noah Rhodes,2015-08-13,,1
+REP-0038,Andrea Young,SMB,Daniel Wagner,2028-01-01,,1
+REP-0039,Mr. Nathaniel Khan,Enterprise,Daniel Wagner,2025-10-14,,1
+REP-0040,Richard Aguirre,Enterprise,Daniel Wagner,2024-03-17,,0
+REP-0041,Matthew Gomez,Partner,Angie Henderson,2017-08-24,,1
+REP-0042,Nicholas Nunez,Partner,Gina Moore,2021-05-26,,0
+REP-0043,James Morgan,SMB,Noah Rhodes,2025-05-26,,1
+REP-0044,Connor West,Retail,Abigail Shaffer,2016-04-06,,1
+REP-0045,Joel Baxter,Enterprise,Allison Hill,2021-08-01,2022-11-27,0
+REP-0046,Scott Pierce,SMB,Daniel Wagner,2015-09-09,,1
+REP-0047,Kimberly Smith,Retail,Angie Henderson,2028-01-01,,1
+REP-0048,Sarah Martin,Retail,Noah Rhodes,2015-12-29,,1
+REP-0049,Dr. Steven Martin,Enterprise,Noah Rhodes,2022-09-01,,1
+REP-0050,Mrs. Rachel Gibson,Retail,Daniel Wagner,2014-06-11,,1
+REP-0051,Monica Logan,Retail,Allison Hill,2021-08-08,,0
+REP-0052,Brittney Phillips,Online,Abigail Shaffer,2025-08-31,,1
+REP-0053,Kimberly Adkins,Retail,Angie Henderson,2015-05-27,,0
+REP-0054,John Calhoun,Partner,Allison Hill,2015-05-19,,1
+REP-0055,Tyler Miller,Partner,Gina Moore,2023-06-11,,1
+REP-0056,Barry Hensley,SMB,Allison Hill,2017-07-26,,0
+REP-0057,Steve Sanchez,Enterprise,Noah Rhodes,2021-04-10,,1
+REP-0058,Bradley Sandoval,Enterprise,Daniel Wagner,2024-07-09,,0
+REP-0059,Taylor Harris,Enterprise,Abigail Shaffer,2024-01-09,,1
+REP-0060,James Powers,Online,Cristian Santos,2019-10-02,,1
+REP-0061,Timothy Walls,SMB,Cristian Santos,2019-07-06,,1
+REP-0062,Zachary Ferrell,,,,,1
+REP-0063,Katie Anderson,Enterprise,Gina Moore,2015-08-27,2016-05-18,0
+REP-0064,Sherry Wood,,,,,0
+REP-0065,  joshua turner  ,Enterprise,Daniel Wagner,2017-02-02,,1
+REP-0066,Mary Spencer,Partner,Cristian Santos,2025-07-13,,1
+REP-0067,Shawn Baker,Partner,Allison Hill,2025-09-10,,0
+REP-0068,Brittney Campbell,Enterprise,Angie Henderson,2016-03-24,,1
+REP-0069,Christina Walters,Partner,Angie Henderson,2017-12-27,,1
+REP-0070,Danielle Odonnell,,Daniel Wagner,2018-11-24,,1
+REP-0071,Jeff Hill,Partner,Gina Moore,2015-04-09,,1
+REP-0072,Carlos Whitney,Enterprise,Abigail Shaffer,2014-06-20,,0
+REP-0073,Kristen Patterson,SMB,Cristian Santos,2017-02-26,,1
+REP-0074,Tony Vazquez,Retail,Allison Hill,2014-07-28,,1
+REP-0075,Sandra Aguilar,SMB,Allison Hill,2016-12-10,,1
